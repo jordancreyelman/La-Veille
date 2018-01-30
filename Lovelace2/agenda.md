@@ -44,19 +44,19 @@ Format à respecter:
 
 	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
-	-lundi  03/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
+	-lundi  05/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
 
-	-mardi  04/02/2018,"", ;
+	-mardi  06/02/2018,"", ;
 
-	-mercredi  05/02/2018,"", ;
+	-mercredi  07/02/2018,"", ;
 
-	-jeudi  06/02/2018,"", ;
+	-jeudi  08/02/2018,"", ;
 
-	-vendredi  07/02/2018,"", ;
+	-vendredi  09/02/2018,"", ;
 
-	-lundi  08/02/2018,"", ;
+	-lundi  10/02/2018,"", ;
 
-	-mardi  09/02/2018,"", ;
+	-mardi  11/02/2018,"", ;
 
 
 
