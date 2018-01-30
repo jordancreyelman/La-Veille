@@ -44,7 +44,7 @@ Format à respecter:
 
 	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
-	-lundi  03/02/2018,"", ;
+	-lundi  03/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
 
 	-mardi  04/02/2018,"", ;
 
