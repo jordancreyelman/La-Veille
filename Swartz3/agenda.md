@@ -50,7 +50,7 @@ Format à respecter:
 - 26/01/2018, "[Trello](https://trello.com) et autres kanban", Emily
 - 29/01/2018, "initiation à AJAX", Nicolas Jamar
 - 30/01/2018
-- 31/01/2018
+- 31/01/2018, "Convention de nommage, CSS", Olivier Courbe
 
 ### Février
 - 01/02/2018, Workshop Blockchain Lovelace & Swartz
