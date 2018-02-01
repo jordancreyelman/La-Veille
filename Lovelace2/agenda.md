@@ -48,7 +48,7 @@ Format à respecter:
 
 	-mardi  06/02/2018, "Gestalt theorie", Laureen;
 
-	-mercredi  07/02/2018,"", ;
+	-mercredi  07/02/2018,"La conformité de vos applis avec le RGPD ou GDPR en anglais !", Ornella ;
 
 	-jeudi  08/02/2018,"", ;
 
