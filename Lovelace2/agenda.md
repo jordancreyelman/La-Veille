@@ -40,13 +40,13 @@ Format à respecter:
 
 	-mercredi 31/01/2018,"L'impact environnemental", Delphine;
 
-	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
+	-jeudi  01/02/2018, ATELIER BLOCKCHAIN; 
 
 	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
 	-lundi  05/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
 
-	-mardi  06/02/2018,"", ;
+	-mardi  06/02/2018, "Gestalt theorie", Laureen;
 
 	-mercredi  07/02/2018,"", ;
 
