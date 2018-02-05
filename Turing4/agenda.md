@@ -12,9 +12,9 @@ Format à respecter:
 - 05/02/2018, "Le materiel design, Jennifer 
 - 06/02/2018, "les futures nouveautés et modifications des prochains langages html et css", Geoffrey
 
-| Date          | Nom              | Sujet |
-| ------------- |:----------------:| -----:|
-|  25/01/2018   | Claude Janssesn  | Google AMP |
-| 2e colonne est| centrée          |   12€ |
-| zebra stripes | are neat         |    1€ |
+| Date          | Nom              | Sujet              |
+| ------------- |:----------------:| ------------------:|
+| 25/01/2018    | Claude Janssesn  | Google AMP         |
+| 26/01/2018    | Dorien Collier   | La méthode Jacotot |
+| 29/01/2018    | Steve Van E.     | Les grilles CSS    |
 
