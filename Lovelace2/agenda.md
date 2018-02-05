@@ -50,7 +50,7 @@ Format à respecter:
 
 	-mercredi  07/02/2018,"La conformité de vos applis avec le RGPD ou GDPR en anglais !", Ornella ;
 
-	-jeudi  08/02/2018,"", ;
+	-jeudi  08/02/2018, "Amélioration progressive", Alexandre Plennevaux;
 
 	-vendredi  09/02/2018,"", ;
 
