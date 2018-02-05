@@ -56,7 +56,7 @@ Format à respecter:
 - 01/02/2018, Workshop Blockchain Lovelace & Swartz
 - 02/02/2018
 - 05/02/2018
-- 06/02/2018
+- 06/02/2018, "[Pingendo](https://pingendo.com/), générateur de code bootstrap", Simon Romainville
 - 07/02/2018
 - 08/02/2018
 - 09/02/2018
