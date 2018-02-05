@@ -9,5 +9,12 @@ Format à respecter:
 - 30/01/2018, "Optimisation d'images", Sarah
 - 31/01/2018, "HTML 5.1", Mathieu
 - 01/02/2018, "Faille meltdown", Bryan Mootoosamy
+- 05/02/2018, "Le materiel design, Jennifer 
 - 06/02/2018, "les futures nouveautés et modifications des prochains langages html et css", Geoffrey
+
+| Date          | Nom              | Sujet |
+| ------------- |:----------------:| -----:|
+|  25/01/2018   | Claude Janssesn  | Google AMP |
+| 2e colonne est| centrée          |   12€ |
+| zebra stripes | are neat         |    1€ |
 
