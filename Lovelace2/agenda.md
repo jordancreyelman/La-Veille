@@ -54,7 +54,7 @@ Format à respecter:
 
 	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
 
-	-lundi  10/02/2018,"", ;
+	-lundi  10/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
 
 	-mardi  11/02/2018,"", ;
 
