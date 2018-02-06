@@ -8,7 +8,7 @@ Format à respecter:
 
 	-mardi  09/01/2018, "Google Home", Bertrand ;
 
-	-mercredi  10/01/2018, 
+	-mercredi  10/01/2018,
 
 	-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
 
@@ -24,7 +24,7 @@ Format à respecter:
 
 	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
-	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
+	-lundi  22/01/2018, "Gestalt theorie", Laureen;
 
 	-mardi  23/01/2018, "2BE3", Syl;
 
@@ -40,7 +40,7 @@ Format à respecter:
 
 	-mercredi 31/01/2018,"L'impact environnemental", Delphine;
 
-	-jeudi  01/02/2018, ATELIER BLOCKCHAIN; 
+	-jeudi  01/02/2018, ATELIER BLOCKCHAIN;
 
 	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
@@ -52,7 +52,7 @@ Format à respecter:
 
 	-jeudi  08/02/2018, "Amélioration progressive", Alexandre Plennevaux;
 
-	-vendredi  09/02/2018,"", ;
+	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
 
 	-lundi  10/02/2018,"", ;
 
@@ -165,7 +165,7 @@ Format à respecter:
 
 - mardi 12/12/2017,  
 
-- mercredi 13/12/2017, 
+- mercredi 13/12/2017,
 
 - jeudi 14/12/2017,
 
