@@ -57,7 +57,7 @@ Format à respecter:
 - 02/02/2018
 - 05/02/2018
 - 06/02/2018, "[Pingendo](https://pingendo.com/), générateur de code bootstrap", Simon Romainville
-- 07/02/2018, "apache2 version terminal", mettre en place apache2, Hammouten Farid 
-- 08/02/2018
+- 07/02/2018, "Material Design Lite", Marine Sclavons 
+- 08/02/2018, "La Magie du Terminal ou comment tombé amoureux du terminal", Hammouten Farid
 - 09/02/2018
  
