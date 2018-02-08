@@ -14,7 +14,7 @@ Format à respecter:
 | 05/02/2018    | Jennifer         | Material design    |
 | 06/02/2018    | Geoffrey  .      | css4 et html 5.2   |
 | 07/02/2018    | Jordan           | Les serveurs       |
-| 08/02/2018    | Kevin D.         | Inconnu            |
+| 08/02/2018    | Kevin D.         | Le wifi et les réseaux mobiles |
 | 09/02/2018    | Michael B.       | Inconnu            |
 
 
