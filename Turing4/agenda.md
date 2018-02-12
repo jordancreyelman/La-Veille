@@ -20,7 +20,7 @@ Format à respecter:
 | 11/02/2018    | ----------       | Inconnu            |
 | 12/02/2018    | ----------       | Inconnu            |
 | 13/02/2018    | ----------       | Inconnu            |
-| 14/02/2018    |Gretzer J         | Inconnu            |
+| 14/02/2018    | ----------       | Inconnu            |
 | 15/02/2018    | Daniel----       | la smart           |
 | 16/02/2018    | Arnaud----       | plugin flashplayer            |
 | 17/02/2018    | ----------       | Inconnu            |
@@ -32,7 +32,7 @@ Format à respecter:
 | 23/02/2018    | ----------       | Inconnu            |
 | 24/02/2018    | ----------       | Inconnu            |
 | 25/02/2018    | ----------       | Inconnu            |
-| 26/02/2018    | ----------       | Inconnu            |
+| 26/02/2018    | Félix            | Robots.txt         |
 | 27/02/2018    | ----------       | Inconnu            |
 | 28/02/2018    | ----------       | Inconnu            |
 | 01/03/2018    | ----------       | Inconnu            |
