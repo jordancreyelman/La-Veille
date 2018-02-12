@@ -19,7 +19,7 @@ Format à respecter:
 | 10/02/2018    | ----------       | Inconnu            |
 | 11/02/2018    | ----------       | Inconnu            |
 | 12/02/2018    | ----------       | Inconnu            |
-| 13/02/2018    | ----------       | Inconnu            |
+| 13/02/2018    | Romain           | Atomic Design      |
 | 14/02/2018    |Gretzer J         | Inconnu            |
 | 15/02/2018    | Daniel----       | la smart           |
 | 16/02/2018    | Arnaud----       | plugin flashplayer            |
@@ -30,7 +30,9 @@ Format à respecter:
 | 21/02/2018    | Daphné           | Inconnu            |
 | 22/02/2018    | David            | WP et autres CMS   |
 | 23/02/2018    | Sébastien-       | Inconnu            |
-| 24/02/2018    | ----------       | Inconnu            |
+| 22/02/2018    | David            | Wp et CMS           |
+| 23/02/2018    | Sébastien        | Inconnu            |
+| 24/02/2018    | Félicien -       | Inconnu            |
 | 25/02/2018    | ----------       | Inconnu            |
 | 26/02/2018    | Frédéric--       | Inconnu            |
 | 27/02/2018    | ----------       | Inconnu            |
