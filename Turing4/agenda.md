@@ -3,38 +3,32 @@
 Format à respecter:   
 
 | Date          | Nom              | Sujet              |
-| ------------- |:----------------:| ------------------:|
-| 25/01/2018    | Claude Janssesn  | Google AMP         |
-| 26/01/2018    | Dorien Collier   | La méthode Jacotot |
-| 29/01/2018    | Steve Van E.     | Les grilles CSS    |
-| 30/01/2018    | Sarah            | Optimisation d'image |
-| 31/01/2018    | Mathieu L.       | html 5.1           |
-| 01/01/2018    | Bryan Moot.      | Faille Meltdown    |
-| 02/02/2018    | Ludovic .C       | Gpu et AI          |
-| 05/02/2018    | Jennifer         | Material design    |
-| 06/02/2018    | Geoffrey  .      | css4 et html 5.2   |
-| 07/02/2018    | Jordan           | Les serveurs       |
-| 08/02/2018    | Kevin D.         | Le wifi et les réseaux mobiles |
-| 09/02/2018    | Michael B.       | Bootstrap          |
-| 10/02/2018    | WEEK END         | Inconnu            |
-| 11/02/2018    | WEEK END         | Inconnu            |
-| 12/02/2018    | ----------       | Inconnu            |
-| 13/02/2018    | Romain           | Atomic Design      |
-| 14/02/2018    | Gretzer J        | Ransonware         |
-| 15/02/2018    | Daniel           | La smart           |
-| 16/02/2018    | Arnaud           | plugin flashplayer |
-| 17/02/2018    | WEEK END         | Inconnu            |
-| 18/02/2018    | WEEK END         | Inconnu            |
-| 19/02/2018    | Jacques          | Images Libre       |
-| 20/02/2018    | Claude           | Coder Pareto?      |
-| 21/02/2018    | Daphné           | Inconnu            |
-| 22/02/2018    | David            | WP et autres CMS   |
-| 23/02/2018    | Sébastien        | Inconnu            |
-| 24/02/2018    | WEEK END         | Inconnu            |
-| 25/02/2018    | WEEK END         | Inconnu            |
-| 26/02/2018    | Frédéric--       | Inconnu            |
-| 27/02/2018    | Morgan           | Inconnu            |
-| 28/02/2018    | Kevin Charlier   | Inconnu            |
-| 01/03/2018    | Félicien         | Inconnu            |
+|:----------------:|:----------------:| ------------------:|
+| Je 25/01 | Claude | [Google AMP](https://github.com/Steve-VE/CSS-Grid) |
+| Ve 26/01 | Dorien Collier  [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
+| Lu 29/01 | Steve Van E.     | [Les grilles CSS](https://github.com/Steve-VE/CSS-Grid) |
+| Ma 30/01 | Sarah            | [Optimisation d'image]() |
+| Me 31/01 | Mathieu L.       | [html 5.1]() |
+| Je 01/02 | Bryan Moot. | [Les failles Meltdown et Spectre](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/6OUhj2ygWaeTTMR/Veille%20Technologique.docx) |
+| Ve 02/02 | Ludovic .C | [GPU et AI]() |
+| Lu 05/02 | Jennifer         | [Material design]()  |
+| Ma 06/02 | Geoffrey | [Présenter avec Prezi](https://prezi.com/) |
+| Me 07/02 | Jordan           | [Big data]() |
+| Je 08/02 | Kevin D.         | [Les réseaux Wifi et mobiles](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/uY9k3EfBqzse9EZ/Les%20r%C3%A9seaux%20Wifi%20et%20mobiles.pptx) |
+| Ve 09/02 | Michael B.       | [Bootstrap]() |
+| Lu 12/02 | Fantomas       | Don't Forget Your Veille ;) |
+| Ma 13/02 | Romain           | Atomic Design  |
+| Me 14/02 | Gretzer J        | Ransonware |
+| Je 15/02 | Daniel           | La smart |
+| Ve 16/02 | Arnaud           | plugin flashplayer |
+| Lu 19/02 | Jacques          | Images Libre |
+| Ma 20/02 | Claude           | Coder Pareto |
+| Me 21/02 | Daphné           | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Je 22/02 | David            | WP et autres CMS |
+| Ve 23/02 | Sébastien        | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Lu 26/02 | Frédéric | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Me 28/02 | Kevin Charlier   | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Je 01/03 | Félicien         | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 
 
