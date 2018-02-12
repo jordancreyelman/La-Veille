@@ -47,12 +47,7 @@ Format à respecter:
 
 	-mercredi 28/02/2018, "", ;
 
-	-jeudi 29/02/2018, " ", ;
-
-	-vendredi 30/02/2018, "  ",   ;
-
-
-
+	
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
