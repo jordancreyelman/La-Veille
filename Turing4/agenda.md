@@ -21,8 +21,8 @@ Format à respecter:
 | 12/02/2018    | ----------       | Inconnu            |
 | 13/02/2018    | Romain           | Atomic Design      |
 | 14/02/2018    | Gretzer J        | Ransonware         |
-| 15/02/2018    | Daniel----       | la smart           |
-| 16/02/2018    | Arnaud----       | plugin flashplayer |
+| 15/02/2018    | Daniel           | La smart           |
+| 16/02/2018    | Arnaud           | plugin flashplayer |
 | 17/02/2018    | WEEK END         | Inconnu            |
 | 18/02/2018    | WEEK END         | Inconnu            |
 | 19/02/2018    | Jacques          | Images Libre       |
