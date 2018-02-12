@@ -25,7 +25,7 @@ Format à respecter:
 | 16/02/2018    | ----------       | Inconnu            |
 | 17/02/2018    | ----------       | Inconnu            |
 | 18/02/2018    | ----------       | Inconnu            |
-| 19/02/2018    | ----------       | Inconnu            |
+| 19/02/2018    | Jacques          | Images Libre       |
 | 20/02/2018    | Claude           | Coder Pareto?      |
 | 21/02/2018    | ----------       | Inconnu            |
 | 22/02/2018    | ----------       | Inconnu            |
