@@ -22,7 +22,7 @@ Format à respecter:
 | 13/02/2018    | ----------       | Inconnu            |
 | 14/02/2018    | ----------       | Inconnu            |
 | 15/02/2018    | Daniel----       | la smart           |
-| 16/02/2018    | ----------       | Inconnu            |
+| 16/02/2018    | Arnaud----       | plugin flashplayer            |
 | 17/02/2018    | ----------       | Inconnu            |
 | 18/02/2018    | ----------       | Inconnu            |
 | 19/02/2018    | ----------       | Inconnu            |
