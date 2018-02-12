@@ -54,9 +54,15 @@ Format à respecter:
 
 	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
 
-	-lundi  10/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
+	-lundi  12/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
 
-	-mardi  11/02/2018,"", ;
+	-mardi  13/02/2018,"", ;
+
+	-mercredi 14/02/2018, "", ;
+
+	-jeudi 15/02/2018, " ", ;
+
+	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
 
 
 
