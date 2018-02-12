@@ -1,12 +1,20 @@
 ﻿# Veille: ordre de passage à Turing 4
 
 Format à respecter:   
-- date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
-- 25/01/2018, "Google AMP", Claude Janssen
-- 26/01/2018, "La méthode Jacotot", Dorien Collier
-- 29/01/2018, "Sujet inconnu", 
-- 30/01/2018, "Sujet inconnu", Sarah
-- 31/01/2018, "Sujet inconnu", Mathieu
-- 01/02/2018, "Faille meltdown", Bryan Mootoosamy
-- 02/02/2018, "Sujet inconnu", Geoffrey
+| Date          | Nom              | Sujet              |
+| ------------- |:----------------:| ------------------:|
+| 25/01/2018    | Claude Janssesn  | Google AMP         |
+| 26/01/2018    | Dorien Collier   | La méthode Jacotot |
+| 29/01/2018    | Steve Van E.     | Les grilles CSS    |
+| 30/01/2018    | Sarah            | Optimisation d'image |
+| 31/01/2018    | Mathieu L.       | html 5.1           |
+| 01/01/2018    | Bryan Moot.      | Faille Meltdown    |
+| 02/02/2018    | Ludovic .C       | Gpu et AI          |
+| 05/02/2018    | Jennifer         | Material design    |
+| 06/02/2018    | Geoffrey  .      | css4 et html 5.2   |
+| 07/02/2018    | Jordan           | Les serveurs       |
+| 08/02/2018    | Kevin D.         | Le wifi et les réseaux mobiles |
+| 09/02/2018    | Michael B.       | Inconnu            |
+
+

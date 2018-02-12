@@ -9,6 +9,10 @@ Format à respecter:
 
 - Jeudi 01/02/2018 "*Sujet à définir*", __Votre Nom__
 - Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
+- lundi 05/02/2018 "*sujet*", __Votre nom__
+- mardi 06/02/2018 "*sujet*", __Votre nom__
+- mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
+- ....
 
 
 

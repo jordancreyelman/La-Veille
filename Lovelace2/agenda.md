@@ -8,7 +8,7 @@ Format à respecter:
 
 	-mardi  09/01/2018, "Google Home", Bertrand ;
 
-	-mercredi  10/01/2018, 
+	-mercredi  10/01/2018,
 
 	-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
 
@@ -24,7 +24,7 @@ Format à respecter:
 
 	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
-	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
+	-lundi  22/01/2018, "Gestalt theorie", Laureen;
 
 	-mardi  23/01/2018, "2BE3", Syl;
 
@@ -38,25 +38,35 @@ Format à respecter:
 
 	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
 
+<<<<<<< HEAD
 	-mercredi 31/01/2018,"L'impact environnemental du web", Deplphine Braive ;
+=======
+	-mercredi 31/01/2018,"L'impact environnemental", Delphine;
+>>>>>>> {Syl-Alonsious}
 
-	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
+	-jeudi  01/02/2018, ATELIER BLOCKCHAIN;
 
 	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
-	-lundi  03/02/2018,"", ;
+	-lundi  05/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
 
-	-mardi  04/02/2018,"", ;
+	-mardi  06/02/2018, "Gestalt theorie", Laureen;
 
-	-mercredi  05/02/2018,"", ;
+	-mercredi  07/02/2018,"La conformité de vos applis avec le RGPD ou GDPR en anglais !", Ornella ;
 
-	-jeudi  06/02/2018,"", ;
+	-jeudi  08/02/2018, "Amélioration progressive", Alexandre Plennevaux;
 
-	-vendredi  07/02/2018,"", ;
+	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
 
-	-lundi  08/02/2018,"", ;
+	-lundi  12/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
 
-	-mardi  09/02/2018,"", ;
+	-mardi  13/02/2018,"", ;
+
+	-mercredi 14/02/2018, "", ;
+
+	-jeudi 15/02/2018, " ", ;
+
+	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
 
 
 
@@ -165,7 +175,7 @@ Format à respecter:
 
 - mardi 12/12/2017,  
 
-- mercredi 13/12/2017, 
+- mercredi 13/12/2017,
 
 - jeudi 14/12/2017,
 
