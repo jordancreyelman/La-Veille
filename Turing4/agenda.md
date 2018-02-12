@@ -4,7 +4,7 @@ Format à respecter:
 
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
-| Je 25/01 | Claude | [Google AMP](https://github.com/Steve-VE/CSS-Grid) |
+| Je 25/01 | Claude | [Google AMP](https://github.com/ClaudeJanssenPro/veille250118_amp) |
 | Ve 26/01 | Dorien Collier | [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
 | Lu 29/01 | Steve Van E.     | [Les grilles CSS](https://github.com/Steve-VE/CSS-Grid) |
 | Ma 30/01 | Sarah            | [Optimisation d'image]() |
