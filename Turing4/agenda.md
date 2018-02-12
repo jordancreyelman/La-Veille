@@ -5,7 +5,7 @@ Format à respecter:
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
 | Je 25/01 | Claude | [Google AMP](https://github.com/Steve-VE/CSS-Grid) |
-| Ve 26/01 | Dorien Collier  [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
+| Ve 26/01 | Dorien Collier | [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
 | Lu 29/01 | Steve Van E.     | [Les grilles CSS](https://github.com/Steve-VE/CSS-Grid) |
 | Ma 30/01 | Sarah            | [Optimisation d'image]() |
 | Me 31/01 | Mathieu L.       | [html 5.1]() |
@@ -16,7 +16,7 @@ Format à respecter:
 | Me 07/02 | Jordan           | [Big data]() |
 | Je 08/02 | Kevin D.         | [Les réseaux Wifi et mobiles](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/uY9k3EfBqzse9EZ/Les%20r%C3%A9seaux%20Wifi%20et%20mobiles.pptx) |
 | Ve 09/02 | Michael B.       | [Bootstrap]() |
-| Lu 12/02 | Fantomas       | Don't Forget Your Veille ;) |
+| Lu 12/02 | _Fantomas_       | _Don't Forget Your Veille_ |
 | Ma 13/02 | Romain           | Atomic Design  |
 | Me 14/02 | Gretzer J        | Ransonware |
 | Je 15/02 | Daniel           | La smart |
@@ -30,5 +30,5 @@ Format à respecter:
 | Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Me 28/02 | Kevin Charlier   | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Je 01/03 | Félicien         | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
-
+| Ve 02/03 | | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 
