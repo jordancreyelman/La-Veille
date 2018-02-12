@@ -35,7 +35,7 @@ Format à respecter:
 | 24/02/2018    | Félicien -       | Inconnu            |
 | 25/02/2018    | ----------       | Inconnu            |
 | 26/02/2018    | Frédéric--       | Inconnu            |
-| 27/02/2018    | ----------       | Inconnu            |
+| 27/02/2018    | Morgan          | Inconnu            |
 | 28/02/2018    | ----------       | Inconnu            |
 | 01/03/2018    | ----------       | Inconnu            |
 
