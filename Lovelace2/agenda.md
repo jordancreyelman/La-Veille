@@ -28,7 +28,7 @@ Format à respecter:
 
 	-mercredi 14/02/2018, "Three JS", Jimmy ;
 
-	-jeudi 15/02/2018, "Environement Docker", Le Jedi Marvin et son Padawan Kévin F. ;
+	-jeudi 15/02/2018, "Environnement Docker", Le Jedi Marvin et son Padawan Kévin F. ;
 
 	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
 		
