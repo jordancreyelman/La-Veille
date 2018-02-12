@@ -15,7 +15,7 @@ Format à respecter:
 | 06/02/2018    | Geoffrey  .      | css4 et html 5.2   |
 | 07/02/2018    | Jordan           | Les serveurs       |
 | 08/02/2018    | Kevin D.         | Le wifi et les réseaux mobiles |
-| 09/02/2018    | Michael B.       | Inconnu            |
+| 09/02/2018    | Michael B.       | Bootstrap          |
 | 10/02/2018    | WEEK END         | Inconnu            |
 | 11/02/2018    | WEEK END         | Inconnu            |
 | 12/02/2018    | ----------       | Inconnu            |
