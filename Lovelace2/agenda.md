@@ -38,7 +38,7 @@ Format à respecter:
 
 	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
 
-	-mercredi 31/01/2018,"", ;
+	-mercredi 31/01/2018,"L'impact environnemental du web", Deplphine Braive ;
 
 	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
 
