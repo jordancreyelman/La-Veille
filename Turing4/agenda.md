@@ -31,7 +31,7 @@ Format à respecter:
 | 22/02/2018    | David            | WP et autres CMS   |
 | 23/02/2018    | ----------       | Inconnu            |
 | 24/02/2018    | ----------       | Inconnu            |
-| 25/02/2018    | ----------       | Inconnu            |
+| 25/02/2018    | Félicien--       | Inconnu            |
 | 26/02/2018    | Frédéric--       | Inconnu            |
 | 27/02/2018    | ----------       | Inconnu            |
 | 28/02/2018    | ----------       | Inconnu            |
