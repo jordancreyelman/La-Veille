@@ -22,7 +22,7 @@ Format à respecter:
 
 	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
 
-	-lundi  12/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
+	-lundi  12/02/2018,"Self Hosted",Antoine Gjeloshaj ;
 
 	-mardi  13/02/2018,"Full-Stack, cherchez la licorne", Axelelel;
 
