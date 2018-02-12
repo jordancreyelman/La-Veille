@@ -4,45 +4,8 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-	-lundi 08/01/2018, "nobody", is perfect ;
 
-	-mardi  09/01/2018, "Google Home", Bertrand ;
-
-	-mercredi  10/01/2018,
-
-	-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
-
-	-vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
-
-	-lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
-
-	-mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
-
-	-mercredi  17/01/2018, "", ;
-
-	-jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
-
-	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
-
-	-lundi  22/01/2018, "Gestalt theorie", Laureen;
-
-	-mardi  23/01/2018, "2BE3", Syl;
-
-	-mercredi  24/01/2018, "La domotique", Omar;
-
-	-jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
-
-	-vendredi  26/01/2018, "Knacss", Nico Van Roost;
-
-	-lundi  29/01/2018, "Las animations en CSS", Weichuan;
-
-	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
-
-<<<<<<< HEAD
-	-mercredi 31/01/2018,"L'impact environnemental du web", Deplphine Braive ;
-=======
-	-mercredi 31/01/2018,"L'impact environnemental", Delphine;
->>>>>>> {Syl-Alonsious}
+	
 
 	-jeudi  01/02/2018, ATELIER BLOCKCHAIN;
 
@@ -67,6 +30,26 @@ Format à respecter:
 	-jeudi 15/02/2018, " ", ;
 
 	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
+		
+	-lundi  19/02/2018," ",  ;
+
+	-mardi  20/02/2018,"", ;
+
+	-mercredi 21/02/2018, "", ;
+
+	-jeudi 22/02/2018, " ", ;
+
+	-vendredi 23/02/2018, "  ", ;
+	
+	-lundi  26/02/2018," ",  ;
+
+	-mardi  27/02/2018,"", ;
+
+	-mercredi 28/02/2018, "", ;
+
+	-jeudi 29/02/2018, " ", ;
+
+	-vendredi 30/02/2018, "  ",   ;
 
 
 
@@ -189,4 +172,40 @@ Format à respecter:
 
 - jeudi 21/12/2017,  "je ne sais pas encore", Ilias
 
-- vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi
+- vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi ;
+
+-lundi 08/01/2018, "nobody", is perfect ;
+
+-mardi  09/01/2018, "Google Home", Bertrand ;
+
+-mercredi  10/01/2018,
+
+-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
+
+-vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
+
+-lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
+
+-mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
+
+-mercredi  17/01/2018, "", ;
+
+-jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
+
+-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
+
+-lundi  22/01/2018, "Gestalt theorie", Laureen;
+
+-mardi  23/01/2018, "2BE3", Syl;
+
+-mercredi  24/01/2018, "La domotique", Omar;
+
+-jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
+
+-vendredi  26/01/2018, "Knacss", Nico Van Roost;
+
+-lundi  29/01/2018, "Las animations en CSS", Weichuan;
+
+-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
+
+-mercredi 31/01/2018,"L'impact environnemental", Delphine;
