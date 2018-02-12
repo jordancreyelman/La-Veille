@@ -23,7 +23,7 @@ Format à respecter:
 
 	-lundi  12/02/2018,"Rocket.Chat",Antoine Gjeloshaj ;
 
-	-mardi  13/02/2018,"", ;
+	-mardi  13/02/2018,"Full-Stack, cherchez la licorne", Axelelel;
 
 	-mercredi 14/02/2018, "", ;
 
