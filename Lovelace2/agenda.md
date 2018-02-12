@@ -1,4 +1,5 @@
-# Veille: ordre de passage à Lovelace 2
+#
+ Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
@@ -25,23 +26,23 @@ Format à respecter:
 
 	-mardi  13/02/2018,"Full-Stack, cherchez la licorne", Axelelel;
 
-	-mercredi 14/02/2018, "", ;
+	-mercredi 14/02/2018, "Three JS", Jimmy ;
 
-	-jeudi 15/02/2018, " ", ;
+	-jeudi 15/02/2018, "Environement Docker", Le Jedi Marvin et son Padawan Kévin F. ;
 
 	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
 		
-	-lundi  19/02/2018," ",  ;
+	-lundi  19/02/2018,"Les injections an javascript", Ornella ;
 
-	-mardi  20/02/2018,"", ;
+	-mardi  20/02/2018,"Composer", Caroline ;
 
-	-mercredi 21/02/2018, "", ;
+	-mercredi 21/02/2018, "Surprise du chef", Valerian ;
 
-	-jeudi 22/02/2018, " ", ;
+	-jeudi 22/02/2018, "Client mail", Vincent ;
 
-	-vendredi 23/02/2018, "  ", ;
+	-vendredi 23/02/2018, "Code is poetry", Stéphane ;
 	
-	-lundi  26/02/2018," ",  ;
+	-lundi  26/02/2018,"SEO 2.0", Steve ;
 
 	-mardi  27/02/2018,"", ;
 
