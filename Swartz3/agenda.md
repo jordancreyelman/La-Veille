@@ -60,4 +60,5 @@ Format à respecter:
 - 07/02/2018, "Material Design Lite", Marine Sclavons 
 - 08/02/2018, "[Chrome extensions](https://docs.google.com/presentation/d/1ChR7jbBghTX1lN-yvz-3UmgWgiv9glFDYm5kxjzWSgo/edit#slide=id.gc6f59039d_0_29)", Andrea Symeon
 - 09/02/2018, "La Magie du Terminal ou comment tombé amoureux du terminal", Hammouten Farid
+- 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
  
