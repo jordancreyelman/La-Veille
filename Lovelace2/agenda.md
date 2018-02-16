@@ -44,7 +44,7 @@ Format à respecter:
 	
 	-lundi  26/02/2018,"SEO 2.0", Steve ;
 
-	-mardi  27/02/2018,"", ;
+	-mardi  27/02/2018,"This !", Antoine Gjeloshaj;
 
 	-mercredi 28/02/2018, "", ;
 
