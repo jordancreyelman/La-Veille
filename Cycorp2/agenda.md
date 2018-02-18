@@ -12,7 +12,7 @@ Format à respecter:
 - lundi 05/02/2018 "*sujet*", __Votre nom__
 - mardi 06/02/2018 "*sujet*", __Votre nom__
 - mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
-- mercredi 21/02/2018 "*AdonisJs - Node.js web framework*", __Saritas Akkad__
+- mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
 - ...
 
 
