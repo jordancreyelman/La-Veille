@@ -11,7 +11,8 @@ Format à respecter:
 - Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
 - lundi 05/02/2018 "*sujet*", __Votre nom__
 - mardi 06/02/2018 "*sujet*", __Votre nom__
-- mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
+- mercredi 07/02/2018 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
+- lundi 19/02/2018 "*Node RED, IoT with NodeJS*", __Cali Armut__
 - mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
 - ...
 
