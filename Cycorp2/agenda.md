@@ -12,7 +12,7 @@ Format à respecter:
 - Lundi 05/02/2018 "*sujet*", __Votre nom__
 - Mardi 06/02/2018 "*sujet*", __Votre nom__
 - Mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
-- Marci 20/02/2018 "Sujet à définir", Votre Nom
+- Mardi 20/02/2018 "Sujet à définir", Votre Nom
 - Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
 - Jeudi 22/02/2018 "Sujet à définir", Votre Nom
 - Vendredi 23/02/2018 "Sujet à définir", Votre Nom
