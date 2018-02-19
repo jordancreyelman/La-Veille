@@ -13,13 +13,13 @@ Format à respecter:
 - Mardi 06/02/2018 "*sujet*", __Votre nom__
 - Mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
 - Lundi 19/02/2028 "*Node RED, the visual tool for wiring the Internet of Things*", __Cali Armut__
-- Mardi 20/02/2018 "Sujet à définir", Votre Nom
+- Mardi 20/02/2018 "Sujet à définir", Andrei Ciobanasu
 - Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
 - Jeudi 22/02/2018 "Sujet à définir", Votre Nom
 - Vendredi 23/02/2018 "Sujet à définir", Votre Nom
 - Lundi 26/02/2018 "Sujet à définir", Votre Nom
 - Mardi 27/02/2018 "Sujet à définir", Votre Nom
-- Mercredi 28/02/2018 "Sujet à définir", Votre Nom
+- Mercredi 28/02/2018 "Sujet à définir",  Michael Bavier
 
 
 
