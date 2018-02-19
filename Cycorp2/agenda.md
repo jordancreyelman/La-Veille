@@ -9,12 +9,16 @@ Format à respecter:
 
 - Jeudi 01/02/2018 "*Sujet à définir*", __Votre Nom__
 - Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
-- lundi 05/02/2018 "*sujet*", __Votre nom__
-- mardi 06/02/2018 "*sujet*", __Votre nom__
-- mercredi 07/02/2018 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
-- lundi 19/02/2018 "*Node RED, IoT with NodeJS*", __Cali Armut__
-- mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
-- ...
+- Lundi 05/02/2018 "*sujet*", __Votre nom__
+- Mardi 06/02/2018 "*sujet*", __Votre nom__
+- Mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
+- Marci 20/02/2018 "Sujet à définir", Votre Nom
+- Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
+- Jeudi 22/02/2018 "Sujet à définir", Votre Nom
+- Vendredi 23/02/2018 "Sujet à définir", Votre Nom
+- Lundi 26/02/2018 "Sujet à définir", Votre Nom
+- Mardi 27/02/2018 "Sujet à définir", Votre Nom
+- Mercredi 28/02/2018 "Sujet à définir", Votre Nom
 
 
 
