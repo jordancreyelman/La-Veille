@@ -36,7 +36,7 @@ Format à respecter:
 
 	-mardi  20/02/2018,"Composer", Caroline ;
 
-	-mercredi 21/02/2018, "Surprise du chef", Valerian ;
+	-mercredi 21/02/2018, "gitignore", Valerian ;
 
 	-vendredi 23/02/2018, "Code is poetry", Stéphane ;
 	
