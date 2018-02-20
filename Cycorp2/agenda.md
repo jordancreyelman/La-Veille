@@ -16,7 +16,7 @@ Format à respecter:
 - Mardi 20/02/2018 "Sujet à définir", __Andrei Ciobanasu__
 - Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__
 - Jeudi 22/02/2018 "Sujet à définir", Votre Nom
-- Vendredi 23/02/2018 "Sujet à définir", Votre Nom
+- Vendredi 23/02/2018 "Sujet à définir", __Mourad El Bouaananii__
 - Lundi 26/02/2018 "Sujet à définir", __Lucile Verrecchia__
 - Mardi 27/02/2018 "Sujet à définir", __Olga Konstantinova__
 - Mercredi 28/02/2018 "Sujet à définir", __Michael Bavier__
