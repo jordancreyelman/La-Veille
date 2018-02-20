@@ -38,15 +38,14 @@ Format à respecter:
 
 	-mercredi 21/02/2018, "Surprise du chef", Valerian ;
 
-	-jeudi 22/02/2018, "Client mail", Vincent ;
-
 	-vendredi 23/02/2018, "Code is poetry", Stéphane ;
 	
 	-lundi  26/02/2018,"SEO 2.0", Steve ;
 
 	-mardi  27/02/2018,"This !", Antoine Gjeloshaj;
 
-	-mercredi 28/02/2018, "", ;
+	-mercredi 28/02/2018, "Client mail", Vincent ;
+
 
 	
 
