@@ -30,5 +30,5 @@ Format à respecter:
 | Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Me 28/02 | Kevin Charlier   | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Je 01/03 | Félicien         | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
-| Ve 02/03 | | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Ve 02/03 | |Ludovic          Mozilla Firefox developper edition:grilles CSS  [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 
