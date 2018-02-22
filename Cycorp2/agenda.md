@@ -38,13 +38,13 @@ Format à respecter:
 - Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
 - Mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
 - Lundi 19/02/2028 "*Node RED, the visual tool for wiring the Internet of Things*", __Cali Armut__
-- Mardi 20/02/2018 "Sujet à définir", __Andrei Ciobanasu__
+- Mardi 20/02/2018 "*Sujet à définir*", __Andrei Ciobanasu__
 - Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__ (annulé)
-- Jeudi 22/02/2018 "Sujet à définir", __Saritas Akkad__
-- Vendredi 23/02/2018 "Sujet à définir", __Tan Phan__
-- Lundi 26/02/2018 "Sujet à définir", __Mourad El Bouaananii__
-- Mardi 27/02/2018 "Sujet à définir", __Lucile Verrecchia__
-- Mercredi 28/02/2018 "Sujet à définir", __Olga Konstantinova__
+- Jeudi 22/02/2018 "*Sujet à définir*", __Saritas Akkad__
+- Vendredi 23/02/2018 "*Sujet à définir*", __Tan Phan__
+- Lundi 26/02/2018 "*Sujet à définir*", __Mourad El Bouaananii__
+- Mardi 27/02/2018 "*Sujet à définir*", __Lucile Verrecchia__
+- Mercredi 28/02/2018 "*Sujet à définir*", __Olga Konstantinova__
 
 
 
