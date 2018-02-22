@@ -35,10 +35,7 @@ Format à respecter:
 
 ### Février
 
-- Jeudi 01/02/2018 "*Sujet à définir*", __Votre Nom__
 - Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
-- Lundi 05/02/2018 "*sujet*", __Votre nom__
-- Mardi 06/02/2018 "*sujet*", __Votre nom__
 - Mercredi 07/02/2028 "*A Social Media alternative, Mastodon*", __Elisa della Faille__
 - Lundi 19/02/2028 "*Node RED, the visual tool for wiring the Internet of Things*", __Cali Armut__
 - Mardi 20/02/2018 "Sujet à définir", __Andrei Ciobanasu__
