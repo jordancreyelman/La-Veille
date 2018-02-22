@@ -28,7 +28,7 @@ Format à respecter:
 - Lundi 26/03/2028 "*Sujet à définir*", __Votre nom__
 - Mardi 27/03/2028 "*Sujet à définir*", __Votre nom__
 - Mercredi 28/03/2018 "*Sujet à définir*", __Votre nom__
-- Jeudi 29/03/2018 "*Sujet à définir*", __Votre nom__
+- Jeudi 29/03/2018 "*Qu'est-ce que la linguistique computationnelle?*", __Amandine Meeus__
 - Vendredi 30/03/2018 "*Sujet à définir*", __Votre nom__
 
 
