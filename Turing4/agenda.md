@@ -39,7 +39,7 @@ Format à respecter:
 | Me 07/03 | Philippe H.      | Samsung DeX et le code |
 | Me 08/03 | Damien           | Sujet ... |
 
-### Nb de veille déjà faiite :
+### Nb de veille déjà faite :
 
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
