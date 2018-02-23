@@ -140,8 +140,6 @@ good practices to put your website online*", __Geenen Thomas__
 - Lundi 09/10/2017 "*To Sass, or not to Scss, that is the question.*", __Fidele Murengezi__
 - Mardi 10/10/2017  "*Mise en forme avec Flexbox*", __Marie Thielens__
 - Mercredi 11/10/2017 "*Introduction au Bitcoin*", __Aldebaran Desombergh__
-- Jeudi  12/10/2017
-- Vendredi 13/10/2017
 - Lundi 16/10/2017"*The case of Estonia*", __Elisa della Faille__
 - Mardi 17/10/2017 "*OneNote,OpenClassrooms,StackOverflow,etc.*", __Cali Armut__
 - Mercredi 18/10/2017 "*«Nothing to hide», un documentaire sur la surveillance*", __Olga Konstantinova__
@@ -149,11 +147,9 @@ good practices to put your website online*", __Geenen Thomas__
 - Vendredi 20/10/2017"*Differentiating operating systems*", __Michael Bavier__
 - Lundi 23/10/2017 "*En quoi consiste l'écoconception web?*", __Amandine Meeus__
 - Mardi 24/10/2017 "*Introduction au Docker <3* ", __Alituna Arel__
-- Mercredi 25/10/2017
 - Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Quantum Internet*", __Daniel Wenger__
 - Lundi 30/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
 - Mardi 31/10/2017 "*Sujet à venir*", __Tan Phan__
-
 
 
