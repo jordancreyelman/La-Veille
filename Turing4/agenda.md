@@ -41,7 +41,7 @@ Format à respecter:
 
 Nb de veille déjà faiite
 | Nom             | Nb de passage     |
-|:----------------:------------------:|
+|:---------------:|------------------:|
 |Van Essche	Steve | 1|
 |Klewiec	Sarah    | 1|
 |Mootoosamy	Bryan | 1|
