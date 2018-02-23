@@ -36,3 +36,4 @@ Format à respecter:
 | Ve 02/03 | |Ludovic          Mozilla Firefox developper edition:grilles CSS  [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
+| Me 07/03 | Philippe H.      | Samsung DeX et le code |
