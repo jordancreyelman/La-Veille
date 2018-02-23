@@ -39,4 +39,35 @@ Format à respecter:
 | Me 07/03 | Philippe H.      | Samsung DeX et le code |
 | Me 08/03 | Damien           | Sujet ... |
 
+Nb de veille déjà faiite
+| Nom             | Nb de passage     |
+|:----------------:------------------:|
+|Van Essche	Steve | 1|
+|Klewiec	Sarah    | 1|
+|Mootoosamy	Bryan | 1|
+|Bernard	Damien   | 0|
+|Hennaux	Philippe | 0|
+|Charlier	Kévin   | 0|
+|Mignot	Morgan    | 0|
+|Collier	Dorian   | 1|
+|Grotard	Romain   | 1|
+|Leers	Mathieu    | 1|
+|Janssen	Claude   | 2|
+|Bourloo	Michael  | 1|
+|Flament	Jordan   | 1|
+|Da Cruz-Matias	Sébatsien | 0|
+|Gretzer	Jérôme   | 1|
+|Namêche	Félix    | 0|
+|Duchemin	Arnaud  | 1|
+|Thewissen	David  | 1|
+|Ceccoti	Ludovic  | 1|
+|Manzi	Félicien   | 0|
+|Canivet	Geoffrey | 1|
+|Muyshond	Daniel  | 1|
+|Haulin	Daphné    | 1|
+|Bernard	Jacques  | 1|
+|Van Kelst	Jennifer | 1|
+|Binon	Frédéric   | 0|
+
+
 
