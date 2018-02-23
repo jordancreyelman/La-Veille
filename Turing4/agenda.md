@@ -56,7 +56,7 @@ Format à respecter:
 |Janssen	Claude   | 2|
 |Bourloo	Michael  | 1|
 |Flament	Jordan   | 1|
-|Da Cruz-Matias	Sébatsien | 0|
+|Da Cruz-Matias	Sébatsien | 1|
 |Gretzer	Jérôme   | 1|
 |Namêche	Félix    | 0|
 |Duchemin	Arnaud  | 1|
