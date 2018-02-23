@@ -26,9 +26,9 @@ Format à respecter:
 | Ve 16/02 | Arnaud           | plugin flashplayer |
 | Lu 19/02 | Jacques          | Images Libre |
 | Ma 20/02 | Claude           | Coder Pareto |
-| Me 21/02 | Daphné           | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Me 21/02 | Daphné           | Où est passé le bouton google Image ? |
 | Je 22/02 | David            | WP et autres CMS |
-| Ve 23/02 | Sébastien        | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Ve 23/02 | Sébastien        | Les plugins ATOM |
 | Lu 26/02 | Frédéric | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Me 28/02 | Kevin Charlier   | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
