@@ -11,7 +11,7 @@ Format à respecter:
 - Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__
 - Vendredi 02/03/2018 "*Three.js*", __Marie Thielens__
 - Lundi 05/03/2018 "*Sujet à définir*", __Halil Ibrahim Gurbüz__
-- Mardi 06/03/2018 "*Sujet à définir*", __Votre nom__
+- Mardi 06/03/2018 "*Sujet à définir*", __Vadim Brieven__
 - Mercredi 07/03/2028 "*Sujet à définir*", __Votre nom__
 - Jeudi 08/03/2028 "*Sujet à définir*", __Votre nom__
 - Vendredi 09/03/2018 "*Sujet à définir*", __Votre nom__
