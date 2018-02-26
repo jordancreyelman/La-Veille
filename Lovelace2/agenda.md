@@ -20,11 +20,11 @@ Format à respecter:
 
 - mardi  6/3/2018,"Injections en Javascript", Ornella;
 
-- mercredi 28/02/2018, "Docker environnement", Marvin et Kévin F. ;
+- mercredi 7/3/2018, "Docker environnement", Marvin et Kévin F. ;
 	
-- jeudi 01/03/2018, "les failles web", Omar;
+- jeudi 8/03/2018, "les failles web", Omar;
 	
-- vendredi 02/03/2018, " ", ;
+- vendredi 9/03/2018, " ", ;
 
 	
 
