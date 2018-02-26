@@ -61,7 +61,7 @@ Format à respecter:
 |Namêche	Félix    | 0|
 |Duchemin	Arnaud  | 1|
 |Thewissen	David  | 1|
-|Ceccoti	Ludovic  | 1|
+|Ceccoti	Ludovic  | 2|
 |Manzi	Félicien   | 0|
 |Canivet	Geoffrey | 1|
 |Muyshond	Daniel  | 1|
