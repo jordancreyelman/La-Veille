@@ -6,16 +6,15 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 	
-	-lundi  26/02/2018,"SEO 2.0", Steve ;
+- lundi  26/02/2018,"SEO 2.0", Steve ;
 
-	-mardi  27/02/2018,"This !", Antoine Gjeloshaj;
+- mardi  27/02/2018,"This !", Antoine Gjeloshaj;
 
-	-mercredi 28/02/2018, "Client mail", Vincent ;
+- mercredi 28/02/2018, "Client mail", Vincent ;
 	
-	- jeudi 01/03/2018, "Opengraph", Nicolas VR aka EZ;
+- jeudi 01/03/2018, "Opengraph", Nicolas VR aka EZ;
 	
-	- vendredi 02/03/2018, "Guerilla Usability Testing", Alexandre;
-
+- vendredi 02/03/2018, "Guerilla Usability Testing", Alexandre;
 
 	
 
