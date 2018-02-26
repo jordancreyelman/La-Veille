@@ -29,11 +29,11 @@ Format à respecter:
 | Me 21/02 | Daphné           | Où est passé le bouton google Image ? |
 | Je 22/02 | David            | WP et autres CMS |
 | Ve 23/02 | Sébastien        | Les plugins ATOM |
-| Lu 26/02 | Frédéric | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Lu 26/02 | Ludovic          |Mozilla Firefox developper edition:grilles CSS  
 | Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Me 28/02 | Kevin Charlier   | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Je 01/03 | Félicien         |La technologie Blockchain [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
-| Ve 02/03 | Ludovic          |Mozilla Firefox developper edition:grilles CSS  [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Ve 02/03 | Frederic         |...
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | Samsung DeX et le code |
