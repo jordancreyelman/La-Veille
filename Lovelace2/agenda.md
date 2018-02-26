@@ -5,41 +5,6 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-
-
-	-jeudi  01/02/2018, ATELIER BLOCKCHAIN;
-
-	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
-
-	-lundi  05/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
-
-	-mardi  06/02/2018, "Gestalt theorie", Laureen;
-
-	-mercredi  07/02/2018,"La conformité de vos applis avec le RGPD ou GDPR en anglais !", Ornella ;
-
-	-jeudi  08/02/2018, "Amélioration progressive", Alexandre Plennevaux;
-
-	-vendredi  09/02/2018,"Cloud computing", Nicolas B;
-
-	-lundi  12/02/2018,"Self Hosted",Antoine Gjeloshaj ;
-
-	-mardi  13/02/2018,"Full-Stack, cherchez la licorne", Axelelel;
-
-	-mercredi 14/02/2018, "Three JS", Jimmy ;
-
-	-jeudi 15/02/2018, "Environnement Docker", Le Jedi Marvin et son Padawan Kévin F. ;
-
-	-vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
-		
-	-lundi  19/02/2018,"Les injections an javascript", Ornella ;
-
-	-mardi  20/02/2018,"Composer", Caroline ;
-
-	-mercredi 21/02/2018, "gitignore", Valerian ;
-	
-	-jeudi 22/02/2018, "Zapier to Ryver : Le Bonheur", Alexandre ;
-
-	-vendredi 23/02/2018, "Code is poetry", Stéphane ;
 	
 	-lundi  26/02/2018,"SEO 2.0", Steve ;
 
@@ -47,7 +12,9 @@ Format à respecter:
 
 	-mercredi 28/02/2018, "Client mail", Vincent ;
 	
-	- jeudi 29/02/2018, "Opengraph", Nicolas VR aka EZ;
+	- jeudi 01/03/2018, "Opengraph", Nicolas VR aka EZ;
+	
+	- vendredi 02/03/2018, "Guerilla Usability Testing", Alexandre;
 
 
 	
@@ -172,38 +139,72 @@ Format à respecter:
 
 - vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi ;
 
--lundi 08/01/2018, "nobody", is perfect ;
+- lundi 08/01/2018, "nobody", is perfect ;
 
--mardi  09/01/2018, "Google Home", Bertrand ;
+- mardi  09/01/2018, "Google Home", Bertrand ;
 
--mercredi  10/01/2018,
+- mercredi  10/01/2018,
 
--jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
+- jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
 
--vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
+- vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
 
--lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
+- lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
 
--mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
+- mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
 
--mercredi  17/01/2018, "", ;
+- mercredi  17/01/2018, "", ;
 
--jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
+- jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
--vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
+- vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
--lundi  22/01/2018, "Gestalt theorie", Laureen;
+- lundi  22/01/2018, "Gestalt theorie", Laureen;
 
--mardi  23/01/2018, "2BE3", Syl;
+- mardi  23/01/2018, "2BE3", Syl;
 
--mercredi  24/01/2018, "La domotique", Omar;
+- mercredi  24/01/2018, "La domotique", Omar;
 
--jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
+- jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
 
--vendredi  26/01/2018, "Knacss", Nico Van Roost;
+- vendredi  26/01/2018, "Knacss", Nico Van Roost;
 
--lundi  29/01/2018, "Las animations en CSS", Weichuan;
+- lundi  29/01/2018, "Las animations en CSS", Weichuan;
 
--mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
+- mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
 
--mercredi 31/01/2018,"L'impact environnemental", Delphine;
+- mercredi 31/01/2018,"L'impact environnemental", Delphine;
+
+- jeudi  01/02/2018, ATELIER BLOCKCHAIN;
+
+- vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
+
+- lundi  05/02/2018,"Les DevOps, travail agile inter-team !", Axel le ninjatrouille ;
+
+- mardi  06/02/2018, "Gestalt theorie", Laureen;
+
+- mercredi  07/02/2018,"La conformité de vos applis avec le RGPD ou GDPR en anglais !", Ornella ;
+
+- jeudi  08/02/2018, "Amélioration progressive", Alexandre Plennevaux;
+
+- vendredi  09/02/2018,"Cloud computing", Nicolas B;
+
+- lundi  12/02/2018,"Self Hosted",Antoine Gjeloshaj ;
+
+- mardi  13/02/2018,"Full-Stack, cherchez la licorne", Axelelel;
+
+- mercredi 14/02/2018, "Three JS", Jimmy ;
+
+- jeudi 15/02/2018, "Environnement Docker", Le Jedi Marvin et son Padawan Kévin F. ;
+
+- vendredi 16/02/2018, "Les personnalités ", Alonsious Syl ;
+		
+- lundi  19/02/2018,"Les injections an javascript", Ornella ;
+
+- mardi  20/02/2018,"Composer", Caroline ;
+
+- mercredi 21/02/2018, "gitignore", Valerian ;
+	
+- jeudi 22/02/2018, "Zapier to Ryver : Le Bonheur", Alexandre ;
+
+- vendredi 23/02/2018, "Code is poetry", Stéphane ;
