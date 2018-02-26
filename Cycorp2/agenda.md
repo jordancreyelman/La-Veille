@@ -42,7 +42,7 @@ Format à respecter:
 - Mercredi 21/02/2018 "*AdonisJs - Node.js web framework - fullstack app*", __Saritas Akkad__ (annulé)
 - Jeudi 22/02/2018 "*Nous ne sommes pas que du Code*", __Saritas Akkad__
 - Vendredi 23/02/2018 "*ICO Crypto*", __Tan Phan__
-- Lundi 26/02/2018 "*Sujet à définir*", __Lucile Verrecchia__
+- Lundi 26/02/2018 "*Quelques outils pour la recherche d'emploi*", __Lucile Verrecchia__
 - Mardi 27/02/2018 "*Developer Roadmap*", __Mourad El Bouaananii__
 - Mercredi 28/02/2018 "*Sujet à définir*", __Olga Konstantinova__
 
