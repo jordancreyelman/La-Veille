@@ -43,7 +43,7 @@ Format à respecter:
 - Jeudi 22/02/2018 "*Nous ne sommes pas que du Code*", __Saritas Akkad__
 - Vendredi 23/02/2018 "*ICO Crypto*", __Tan Phan__
 - Lundi 26/02/2018 "*Sujet à définir*", __Lucile Verrecchia__
-- Mardi 27/02/2018 "*Sujet à définir*", __Mourad El Bouaananii__
+- Mardi 27/02/2018 "*Developer Roadmap*", __Mourad El Bouaananii__
 - Mercredi 28/02/2018 "*Sujet à définir*", __Olga Konstantinova__
 
 
