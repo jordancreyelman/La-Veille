@@ -30,7 +30,7 @@ Format à respecter:
 | Je 22/02 | David            | WP et autres CMS |
 | Ve 23/02 | Sébastien        | Les plugins ATOM |
 | Lu 26/02 | Ludovic          |Mozilla Firefox developper edition:grilles CSS  
-| Ma 27/02 | Morgan | [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
+| Ma 27/02 | Morgan           | Scrum|
 | Me 28/02 | Kevin Charlier   | [StumbleUpon](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Je 01/03 | Félicien         |La technologie Blockchain [WIP](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Ve 02/03 | Frederic         |...
