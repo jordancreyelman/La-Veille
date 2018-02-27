@@ -49,7 +49,7 @@ Format à respecter:
 |Bernard	Damien   | 0|
 |Hennaux	Philippe | 0|
 |Charlier	Kévin   | 0|
-|Mignot	Morgan    | 0|
+|Mignot	Morgan    | 1|
 |Collier	Dorian   | 1|
 |Grotard	Romain   | 1|
 |Leers	Mathieu    | 1|
