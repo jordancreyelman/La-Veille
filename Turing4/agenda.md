@@ -37,7 +37,8 @@ Format à respecter:
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | Samsung DeX et le code |
-| Me 08/03 | Damien           | Sujet ... |
+| Je 08/03 | Damien           | Sujet ... |
+| Lu 12/03 | Steve            | SASS |
 
 ### Nb de veille déjà faite :
 
