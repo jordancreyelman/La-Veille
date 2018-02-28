@@ -49,7 +49,7 @@ Format à respecter:
 |Mootoosamy	Bryan | 1|
 |Bernard	Damien   | 0|
 |Hennaux	Philippe | 0|
-|Charlier	Kévin   | 0|
+|Charlier	Kévin   | 1|
 |Mignot	Morgan    | 1|
 |Collier	Dorian   | 1|
 |Grotard	Romain   | 1|
