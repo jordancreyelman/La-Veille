@@ -8,10 +8,10 @@ Format à respecter:
 
 ### Mars
 
-- Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__
-- Vendredi 02/03/2018 "*Three.js*", __Marie Thielens__
-- Lundi 05/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
-- Mardi 06/03/2018 "*Sujet à définir*", __Votre nom__
+- Jeudi 01/03/2018 "*Sujet à définir*", __Mourad El Bouaananii__
+- Vendredi 02/03/2018 "*Three.js*", __Michael Bavier__
+- Lundi 05/03/2018 "*Sujet à définir*", __Marie Thielens__
+- Mardi 06/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
 - Mercredi 07/03/2028 "*Sujet à définir*", __Votre nom__
 - Jeudi 08/03/2028 "*Sujet à définir*", __Votre nom__
 - Vendredi 09/03/2018 "*Sujet à définir*", __Votre nom__
@@ -43,8 +43,8 @@ Format à respecter:
 - Jeudi 22/02/2018 "*Nous ne sommes pas que du Code*", __Saritas Akkad__
 - Vendredi 23/02/2018 "*ICO Crypto*", __Tan Phan__
 - Lundi 26/02/2018 "*Quelques outils pour la recherche d'emploi*", __Lucile Verrecchia__
-- Mardi 27/02/2018 "*Developer Roadmap*", __Mourad El Bouaananii__
-- Mercredi 28/02/2018 "*Sujet à définir*", __Olga Konstantinova__
+- Mardi 27/02/2018 "*Developer Roadmap*", __Mourad El Bouaananii__ (annulé grève)
+- Mercredi 28/02/2018 "*Divi*", __Olga Konstantinova__
 
 
 
