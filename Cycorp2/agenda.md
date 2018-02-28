@@ -9,8 +9,8 @@ Format à respecter:
 ### Mars
 
 - Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__
-- Vendredi 02/03/2018 "*Three.js*", __Mourad El Bouaananii__
-- Lundi 05/03/2018 "*Sujet à définir*", __Marie Thielens__
+- Vendredi 02/03/2018 "*Sujet à définir*", __Mourad El Bouaananii__
+- Lundi 05/03/2018 "*Three.js*", __Marie Thielens__
 - Mardi 06/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
 - Mercredi 07/03/2028 "*Sujet à définir*", __Votre nom__
 - Jeudi 08/03/2028 "*Sujet à définir*", __Votre nom__
