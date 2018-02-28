@@ -12,7 +12,7 @@ Format à respecter:
 - Vendredi 02/03/2018 "*Sujet à définir*", __Mourad El Bouaananii__
 - Lundi 05/03/2018 "*Three.js*", __Marie Thielens__
 - Mardi 06/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
-- Mercredi 07/03/2028 "*Sujet à définir*", __Pierre Levie__
+- Mercredi 07/03/2028 "*La revolution de l'agriculture*", __Pierre Levie__
 - Jeudi 08/03/2028 "*Sujet à définir*",  __Daniel Wenger__
 - Vendredi 09/03/2018 "*Sujet à définir*", __Amandine Meeus__
 - Lundi 12/03/2018 "*Sujet à définir*", __Votre nom__
