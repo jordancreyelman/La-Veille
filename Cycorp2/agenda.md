@@ -29,7 +29,7 @@ Format à respecter:
 - Mardi 27/03/2028 "*Sujet à définir*", __Votre nom__
 - Mercredi 28/03/2018 "*Sujet à définir*", __Votre nom__
 - Jeudi 29/03/2018 "", __Votre nom__
-- Vendredi 30/03/2018 "*Sujet à définir*", __Votre nom__
+- Vendredi 30/03/2018 "*Sujet à définir*", __Ali Tuna Arel__
 
 
 
