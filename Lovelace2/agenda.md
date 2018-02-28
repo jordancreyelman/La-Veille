@@ -24,7 +24,7 @@ Format à respecter:
 	
 - jeudi 8/03/2018, "les failles web", Omar;
 	
-- vendredi 9/03/2018, " ", ;
+- vendredi 9/03/2018, "Object",Antoine Gjeloshaj;
 
 	
 
