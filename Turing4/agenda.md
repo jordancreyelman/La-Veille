@@ -39,6 +39,8 @@ Format à respecter:
 | Me 07/03 | Philippe H.      | Samsung DeX et le code |
 | Je 08/03 | Damien           | Sujet ... |
 | Lu 12/03 | Steve            | SASS |
+| Ma 13/03 |                  |   |
+| Me 14/03 | Jordan           | Le cryptage de donnés |
 
 ### Nb de veille déjà faite :
 
