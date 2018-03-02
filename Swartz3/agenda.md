@@ -64,3 +64,7 @@ Format à respecter:
 - 14/02/2018) , "Vue.js" ,  Naël Ait-Abdallah, [Lien Google Slide](https://goo.gl/8u5HJM)
 - 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
 - 20/02/2018, "[SemiCodeOS], Hammouten Farid 
+
+
+### Mars
+- 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko 
