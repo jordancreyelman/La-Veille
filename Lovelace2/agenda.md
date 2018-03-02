@@ -20,7 +20,7 @@ Format à respecter:
 
 - mardi  6/3/2018,"Injections en Javascript", Ornella;
 
-- mercredi 7/3/2018, "Docker environnement", Marvin et Kévin F. ;
+- mercredi 7/3/2018, "Hackers, am I safe?", Marvin LOUIS;
 	
 - jeudi 8/03/2018, "les failles web", Omar;
 	
