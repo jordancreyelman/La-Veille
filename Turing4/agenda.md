@@ -65,7 +65,7 @@ Format à respecter:
 |Duchemin	Arnaud  | 1|
 |Thewissen	David  | 1|
 |Ceccoti	Ludovic  | 2|
-|Manzi	Félicien   | 0|
+|Manzi	Félicien   | 1|
 |Canivet	Geoffrey | 1|
 |Muyshond	Daniel  | 1|
 |Haulin	Daphné    | 1|
