@@ -63,9 +63,10 @@ Format à respecter:
 - 12/02/2018, "Heroku", Christophe Van Maercke
 - 14/02/2018) , "Vue.js" ,  Naël Ait-Abdallah, [Lien Google Slide](https://goo.gl/8u5HJM)
 - 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
+- 13/02/2018, "L'effet parallax", Mickael Van Craenenbroeck
 - 20/02/2018, "[SemiCodeOS], Hammouten Farid 
 
 
 ### Mars
 - 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko 
-- 19/03/18, L'effet parallax, Mickael Van Craenenbroeck
+
