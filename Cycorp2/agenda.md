@@ -8,14 +8,14 @@ Format à respecter:
 
 ### Mars
 
-- Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__
+- Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__ (absent)
 - Vendredi 02/03/2018 "*Sujet à définir*", __Mourad El Bouaananii__
-- Lundi 05/03/2018 "*Three.js*", __Marie Thielens__
-- Mardi 06/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
+- Lundi 05/03/2018 "*Three.js*", __Michael Bavier__
+- Mardi 06/03/2018 "*Sujet à définir*", __Marie Thielens__
 - Mercredi 07/03/2028 "*La revolution de l'agriculture*", __Pierre Levie__
 - Jeudi 08/03/2028 "*Sujet à définir*",  __Daniel Wenger__
 - Vendredi 09/03/2018 "*Qu'est-ce que la linguistique computationnelle?*", __Amandine Meeus__
-- Lundi 12/03/2018 "*Sujet à définir*", __Votre nom__
+- Lundi 12/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
 - Mardi 13/03/2018 "*Sujet à définir*", __Votre nom__
 - Mercredi 14/03/2018 "*Sujet à définir*", __Votre nom__
 - Jeudi 15/03/2018 "*Sujet à définir*", __Votre nom__
