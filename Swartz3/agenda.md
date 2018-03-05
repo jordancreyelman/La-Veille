@@ -68,4 +68,4 @@ Format à respecter:
 
 ### Mars
 - 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko 
--19/03/18, L'effet parallax, Mickael Van Craenenbroeck
+- 19/03/18, L'effet parallax, Mickael Van Craenenbroeck
