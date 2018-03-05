@@ -8,7 +8,7 @@ Format à respecter:
 
 ### Mars
 
-- Jeudi 01/03/2018 "*Sujet à définir*", __Michael Bavier__ (absent)
+- Jeudi 01/03/2018 "*AngularJS*", __Michael Bavier__ (absent)
 - Vendredi 02/03/2018 "*Sujet à définir*", __Mourad El Bouaananii__
 - Lundi 05/03/2018 "*AngularJS*", __Michael Bavier__
 - Mardi 06/03/2018 "*Three.js*", __Marie Thielens__
