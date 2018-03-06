@@ -61,7 +61,7 @@ Format à respecter:
 |Flament	Jordan   | 1|
 |Da Cruz-Matias	Sébatsien | 1|
 |Gretzer	Jérôme   | 1|
-|Namêche	Félix    | 0|
+|Namêche	Félix    | 1|
 |Duchemin	Arnaud  | 1|
 |Thewissen	David  | 1|
 |Ceccoti	Ludovic  | 2|
