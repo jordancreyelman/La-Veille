@@ -37,7 +37,7 @@ Format à respecter:
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | [Samsung DeX et le code](https://prezi.com/p/0a6qr_-uzsbk/)|
-| Je 08/03 | Damien           | Sujet ... |
+| Je 08/03 | Damien           | Textile intelligent |
 | Lu 12/03 | Steve            | SASS |
 | Ma 13/03 | Frédéric         |  .... |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
