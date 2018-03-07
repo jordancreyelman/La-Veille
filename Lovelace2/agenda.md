@@ -26,7 +26,7 @@ Format à respecter:
 	
 - vendredi 9/03/2018, "Object",Antoine Gjeloshaj;
 
-	
+- lundi 12/03/2018, "Les case studies et la rédaction pour le web", Ax; 
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
