@@ -50,7 +50,7 @@ Format à respecter:
 |Klewiec	Sarah    | 1|
 |Mootoosamy	Bryan | 1|
 |Bernard	Damien   | 0|
-|Hennaux	Philippe | 0|
+|Hennaux	Philippe | 1|
 |Charlier	Kévin   | 1|
 |Mignot	Morgan    | 1|
 |Collier	Dorian   | 1|
