@@ -65,6 +65,7 @@ Format à respecter:
 - 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
 - 13/02/2018, "L'effet parallax", Mickael Van Craenenbroeck
 - 20/02/2018, "[SemiCodeOS], Hammouten Farid 
+- 21/02/2018, "[Installation Wordpress en local]", Olivier NSHIMIYUMUKIZA
 - 26/02/2018, "[Webdesign Trends](http://www.webdesignertrends.com/)", Simon Romainville
 
 
