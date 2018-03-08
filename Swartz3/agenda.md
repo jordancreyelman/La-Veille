@@ -65,8 +65,10 @@ Format à respecter:
 - 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
 - 13/02/2018, "L'effet parallax", Mickael Van Craenenbroeck
 - 20/02/2018, "[SemiCodeOS], Hammouten Farid 
+- 26/02/2018, "[Webdesign Trends](http://www.webdesignertrends.com/)", Simon Romainville
 
 
 ### Mars
 - 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko 
+- 12/03/2018, "[Enki](https://enki.com/), apprendre les bonnes pratiques graduellement", Simon Romainville
 
