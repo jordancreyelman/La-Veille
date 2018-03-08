@@ -22,11 +22,73 @@ Format à respecter:
 
 - mercredi 7/3/2018, "Hackers, am I safe?", Marvin LOUIS;
 	
-- jeudi 8/03/2018, "les failles web", Omar;
+- jeudi 8/03/2018, "générateur de code", Alexandre;
 	
 - vendredi 9/03/2018, "Object",Antoine Gjeloshaj;
 
 - lundi 12/03/2018, "Les case studies et la rédaction pour le web", Ax; 
+
+- mardi  13/3/2018, "les failles web", Omar;
+
+- mercredi 14/3/2018, "Surprise du chef", Nicola Belpois;
+	
+- jeudi 15/03/2018, "hackyourfuture belgium", Muttwakil;
+	
+- vendredi 16/03/2018, "Débugger avec la console", Kévin Somao;
+
+- lundi 19/03/2018, workshop de Marvin 
+
+- mardi  20/3/2018,Workshop de Cali & Workshop Kévin F.
+
+- mercredi 21/3/2018, "", ;
+	
+- jeudi 22/03/2018, "Surprise du chef", Ilias;
+	
+- vendredi 23/03/2018, Workshop Ornella & Marie-Ange
+
+- lundi 26/03/2018, Workshop Daniel; 
+
+- mardi  27/3/2018, Workshop Valérian;
+
+- mercredi 28/3/2018, "Surprise du chef", Gaetan;
+	
+- jeudi 29/03/2018, "Surprise du chef mais pas du CSS!", Weichuan; 
+	
+- vendredi 30/03/2018, "", ;
+
+- lundi 2/4/2018, "Introduction au NoSQL", Steve;
+
+- mardi  3/4/2018,"Introduction à Redux", Thomas Fist;
+
+- mercredi 4/4/2018, "", ;
+	
+- jeudi 5/4/2018, "", ;
+	
+- vendredi 6/4/2018, "", ;
+
+- lundi 9/4/2018, "", ; 
+
+- mardi  10/4/2018,"", ;
+
+- mercredi 11/4/2018, "", ;
+	
+- jeudi 12/4/2018, "", ;
+	
+- vendredi 13/4/2018, "", ;
+
+- lundi 16/4/2018, "", ; 
+
+- mardi  17/4/2018,"", ;
+
+- mercredi 18/4/2018, "", ;
+	
+- jeudi 19/4/2018, "", ;
+	
+- vendredi 20/4/2018, "", ;
+
+- lundi 23/4/2018, "", ; 
+
+
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
