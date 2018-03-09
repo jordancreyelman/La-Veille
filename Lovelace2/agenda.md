@@ -54,7 +54,7 @@ Format à respecter:
 	
 - jeudi 29/03/2018, "Surprise du chef mais pas du CSS!", Weichuan; 
 	
-- vendredi 30/03/2018, "", ;
+- vendredi 30/03/2018, "Surprise de la chèfe", Lys;
 
 - lundi 2/4/2018, "Introduction au NoSQL", Steve;
 
