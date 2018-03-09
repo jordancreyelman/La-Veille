@@ -40,7 +40,7 @@ Format à respecter:
 
 - mardi  20/3/2018,Workshop de Cali & Workshop Kévin F.
 
-- mercredi 21/3/2018, "", ;
+- mercredi 21/3/2018, "Object",Antoine Gjeloshaj;
 	
 - jeudi 22/03/2018, "Surprise du chef", Ilias;
 	
