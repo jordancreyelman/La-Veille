@@ -41,7 +41,7 @@ Format à respecter:
 | Lu 12/03 | Steve            | SASS |
 | Ma 13/03 | Frédéric         |  .... |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
-
+| Je 15/03 | Dorian           | Wait&See |
 ### Nb de veille déjà faite :
 
 | Nom             | Nb de passage     |
