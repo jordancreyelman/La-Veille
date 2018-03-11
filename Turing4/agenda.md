@@ -67,7 +67,7 @@ Format à respecter:
 |Thewissen	David  | 1|
 |Ceccoti	Ludovic  | 2|
 |Manzi	Félicien   | 1|
-|Canivet	Geoffrey | 1|
+|Canivet	Geoffrey | 2|
 |Muyshond	Daniel  | 1|
 |Haulin	Daphné    | 1|
 |Bernard	Jacques  | 1|
