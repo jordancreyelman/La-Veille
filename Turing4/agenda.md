@@ -33,7 +33,7 @@ Format à respecter:
 | Ma 27/02 | Morgan           | Scrum|
 | Me 28/02 | Kevin Charlier   | [StumbleUpon](https://github.com/becodeorg/La-Veille/blob/master/Turing4/readme.md) |
 | Je 01/03 | Félicien         |La technologie Blockchain https://prezi.com/p/ultdft9eiy7d/ |
-| Ve 02/03 | Sarah et Daniel  |Smartbe
+| Ve 02/03 | Absent  | Noveille
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | [Samsung DeX et le code](https://prezi.com/p/0a6qr_-uzsbk/)|
