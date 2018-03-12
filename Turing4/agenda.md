@@ -47,7 +47,7 @@ Format à respecter:
 
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
-|Van Essche	Steve | 1|
+|Van Essche	Steve | 2|
 |Klewiec	Sarah    | 1|
 |Mootoosamy	Bryan | 1|
 |Bernard	Damien   | 0|
