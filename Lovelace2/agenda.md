@@ -28,7 +28,7 @@ Format à respecter:
 
 - lundi 12/03/2018, "Les case studies et la rédaction pour le web", Ax;
 
-- mardi  13/3/2018, "les failles web", Omar;
+- mardi  13/3/2018, "Présentation du deep web", Omar;
 
 - mercredi 14/3/2018, "0110110001100101001000000110110001100001011011100110011101110101011000010110011101100101001000000110000101110011011000110110100101101001", Nicola Belpois;
 
