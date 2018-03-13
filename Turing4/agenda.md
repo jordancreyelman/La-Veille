@@ -40,7 +40,7 @@ Format à respecter:
 | Je 08/03 | ABSENT           | No veille |
 | Ve 09/03 | Arnaud D.        | La pollution et l'informatique |
 | Lu 12/03 | Steve            | SASS |
-| Ma 13/03 | Frédéric         |  .... |
+| Ma 13/03 | Frédéric         | Scroll infini |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
 | Je 15/03 | Dorian           | Wait&See |
 ### Nb de veille déjà faite :
@@ -72,7 +72,7 @@ Format à respecter:
 |Haulin	Daphné    | 1|
 |Bernard	Jacques  | 1|
 |Van Kelst	Jennifer | 1|
-|Binon	Frédéric   | 0|
+|Binon	Frédéric   | 1|
 
 
 
