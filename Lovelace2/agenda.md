@@ -62,7 +62,7 @@ Format à respecter:
 
 - mercredi 4/4/2018, "", ;
 
-- jeudi 5/4/2018, "", ;
+- jeudi 5/4/2018, "Languages de programmations bizzare",Antoine Gjeloshaj, ;
 
 - vendredi 6/4/2018, "", ;
 
