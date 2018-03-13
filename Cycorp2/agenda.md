@@ -16,9 +16,9 @@ Format à respecter:
 - Jeudi 08/03/2028 "*Sujet à définir*", __Mourad El Bouaananii__
 - Vendredi 09/03/2018 "*Qu'est-ce que la linguistique computationnelle?*", __Amandine Meeus__ (absente)
 - Lundi 12/03/2018 "*Sujet à définir*", __Vadim Brieven/Halil Ibrahim Gurbüz__
-- Mardi 13/03/2018 "*Sujet à définir*", __Amandine Meeus__
-- Mercredi 14/03/2018 "*Un hackathon un peu différent*", __Daniel Wenger__
-- Jeudi 15/03/2018 "*Sujet à définir*", __Elisa della Faille__
+- Mardi 13/03/2018 "*Qu'est-ce que la linguistique computationnelle?*", __Amandine Meeus__
+- Mercredi 14/03/2018 "*Sujet à définir*", __Daniel Wenger__
+- Jeudi 15/03/2018 "*Un hackathon un peu différent*", __Elisa della Faille__
 - Vendredi 16/03/2018 "*Sujet à définir*", __Votre nom__
 - Lundi 19/03/2018 "*Sujet à définir*", __Votre nom__
 - Mardi 20/03/2018 "*Sujet à définir*", __Votre Nom__
