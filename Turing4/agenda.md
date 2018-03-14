@@ -49,8 +49,8 @@ Format à respecter:
 | Me 21/03 |
 | Je 22/03 |
 | Ve 23/03 |
-| Lu 26/03 | Jerome           |Le dark web/Deep Web
-| Ma 27/03 |
+| Lu 26/03 |
+| Ma 27/03 |Romain
 | Me 28/03 |
 | Je 29/03 |Félicien
 | Ve 30/03 | Michael          | Twitch Developers API |
