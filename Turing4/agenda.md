@@ -1,7 +1,8 @@
 ﻿# Veille: ordre de passage à Turing 4
  
  ### Veille Master
-- pour le calendrier du 05/03 au 16/03/2016 : **ARNAUD D.**
+- pour le calendrier du 05/03 au 16/03/2018 : **ARNAUD D.**
+- pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.**
 
 Format à respecter:   
 
