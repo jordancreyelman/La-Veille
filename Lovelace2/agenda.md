@@ -32,7 +32,7 @@ Format à respecter:
 
 - mercredi 14/3/2018, "0110110001100101001000000110110001100001011011100110011101110101011000010110011101100101001000000110000101110011011000110110100101101001", Nicola Belpois;
 
-- jeudi 15/03/2018, "hackyourfuture belgium", Muttwakil;
+- jeudi 15/03/2018, "";
 
 - vendredi 16/03/2018, "Débugger avec la console", Kévin Somao;
 
@@ -64,7 +64,7 @@ Format à respecter:
 
 - jeudi 5/4/2018, "Les DNS",Antoine Gjeloshaj, ;
 
-- vendredi 6/4/2018, "", ;
+- vendredi 6/4/2018, "Hack Your Future belgium The coding school", Muttwakil Mo, ;
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
