@@ -44,6 +44,7 @@ Format à respecter:
 | Ma 13/03 | Frédéric         | Scroll infini |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
 | Je 15/03 | Dorian           | Wait&See |
+| Lu 19/03 | Sarah            | ...? |
 ### Nb de veille déjà faite :
 
 | Nom             | Nb de passage     |
