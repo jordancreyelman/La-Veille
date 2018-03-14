@@ -59,7 +59,7 @@ Format à respecter:
 |Leers	Mathieu    | 1|
 |Janssen	Claude   | 2|
 |Bourloo	Michael  | 1|
-|Flament	Jordan   | 1|
+|Flament	Jordan   | 2|
 |Da Cruz-Matias	Sébatsien | 1|
 |Gretzer	Jérôme   | 1|
 |Namêche	Félix    | 1|
