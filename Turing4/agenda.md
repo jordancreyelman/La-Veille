@@ -52,7 +52,7 @@ Format à respecter:
 | Lu 26/03 |
 | Ma 27/03 |
 | Me 28/03 |
-| Je 29/03 |
+| Je 29/03 |Félicien
 | Ve 30/03 | Michael          | Twitch Developers API |
 
 ### Nb de veille déjà faite :
