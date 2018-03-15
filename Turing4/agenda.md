@@ -60,8 +60,8 @@ Format à respecter:
 | Lu 12/03 | Steve            | SASS |
 | Ma 13/03 | Frédéric         | Scroll infini |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
-| Je 15/03 | Dorian           | Wait&See |
-| Ve 16/03 | ?????           | ...? |
+| Je 15/03 | THE COACH           | reset.css |
+| Ve 16/03 | Dorian           | wait and see |
 | Lu 19/03 | Sarah            | ...? |
 | Ma 20/03 | 
 | Me 21/03 |
