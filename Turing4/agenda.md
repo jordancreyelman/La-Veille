@@ -63,7 +63,7 @@ Format à respecter:
 | Je 15/03 | THE COACH           | reset.css |
 | Ve 16/03 | Dorian           | wait and see |
 | Lu 19/03 | Sarah            | ...? |
-| Ma 20/03 | 
+| Ma 20/03 | Daniel           | ...? |
 | Me 21/03 |
 | Je 22/03 |
 | Ve 23/03 |
