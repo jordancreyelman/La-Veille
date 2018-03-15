@@ -69,7 +69,7 @@ Format à respecter:
 | Ve 23/03 |
 | Lu 26/03 |
 | Ma 27/03 |Romain
-| Me 28/03 |
+| Me 28/03 | Geoffrey         | ...? |
 | Je 29/03 |Félicien
 | Ve 30/03 | Michael          | Twitch Developers API |
 
