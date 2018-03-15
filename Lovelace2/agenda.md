@@ -42,7 +42,7 @@ Format à respecter:
 
 - mercredi 21/3/2018, "Object",Antoine Gjeloshaj;
 
-- jeudi 22/03/2018, "Surprise du chef", Axel;
+- jeudi 22/03/2018, "Créer un jeu de rôle en JS avec RPGMakerMV", Axel;
 
 - vendredi 23/03/2018, Workshop Ornella & Marie-Ange
 
