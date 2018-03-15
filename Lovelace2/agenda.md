@@ -34,7 +34,7 @@ Format à respecter:
 
 - jeudi 15/03/2018, "";
 
-- vendredi 16/03/2018, "Débugger avec la console", Kévin Somao;
+- vendredi 16/03/2018, "indexeddb", Kévin Somao;
 
 - lundi 19/03/2018, workshop de Marvin
 
@@ -42,7 +42,7 @@ Format à respecter:
 
 - mercredi 21/3/2018, "Object",Antoine Gjeloshaj;
 
-- jeudi 22/03/2018, "Surprise du chef", Ilias;
+- jeudi 22/03/2018, "Surprise du chef", Axel;
 
 - vendredi 23/03/2018, Workshop Ornella & Marie-Ange
 
