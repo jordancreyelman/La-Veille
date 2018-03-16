@@ -65,8 +65,8 @@ Format à respecter:
 | Lu 19/03 | Sarah            | ...? |
 | Ma 20/03 | Daniel           | ...? |
 | Me 21/03 |
-| Je 22/03 |
-| Ve 23/03 |
+| Je 22/03 | 
+| Ve 23/03 | David
 | Lu 26/03 |Daphné            | ...? |
 | Ma 27/03 |Romain
 | Me 28/03 | Geoffrey         | ...? |
