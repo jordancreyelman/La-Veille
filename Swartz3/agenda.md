@@ -37,13 +37,13 @@ Format à respecter:
 - 08/01/2018 , "Feedly", Jacqueline Rwanyindo
 - 09/01/2018 , "Déploiement Filezilla", Corentin Noirot,
 - 10/01/2018 , "[SSH (Secure Shell)](https://docs.google.com/presentation/d/1q-8Op4PeBkb7-3K0R3cCc63cs8vuSVsiG5_Lz3sFQbI/edit#slide=id.p)", Courbe Olivier.
-- 12/01/2018, "[Bestof.js.org](https://bestof.js.org/)", Hammouten Farid. 
+- 12/01/2018, "[Bestof.js.org](https://bestof.js.org/)", Hammouten Farid.
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
 - 16/01/2018, "Medium.com", Corentin Warin
 - 17/01/2018
-- 18/01/2018, "IFTTT", Bernard Jacob	
+- 18/01/2018, "IFTTT", Bernard Jacob
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
-- 22/01/2018, 
+- 22/01/2018,
 - 23/01/2018, "Smart et Projet Smart", Corentin Warin
 - 24/01/2018, "utilisation d'une API", Nicolas Jamar
 - 25/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
@@ -57,40 +57,38 @@ Format à respecter:
 - 02/02/2018
 - 05/02/2018
 - 06/02/2018, "[Pingendo](https://pingendo.com/), générateur de code bootstrap", Simon Romainville
-- 07/02/2018, "Material Design Lite", Marine Sclavons 
+- 07/02/2018, "Material Design Lite", Marine Sclavons
 - 08/02/2018, "[Chrome extensions](https://docs.google.com/presentation/d/1ChR7jbBghTX1lN-yvz-3UmgWgiv9glFDYm5kxjzWSgo/edit#slide=id.gc6f59039d_0_29)", Andrea Symeon
 - 09/02/2018, "La Magie du Terminal ou comment tombé amoureux du terminal", Hammouten Farid
 - 12/02/2018, "Heroku", Christophe Van Maercke
 - 14/02/2018) , "Vue.js" ,  Naël Ait-Abdallah, [Lien Google Slide](https://goo.gl/8u5HJM)
 - 15/02/2018 , "[Les extensions utiles pour WordPress](https://fr.wordpress.org/plugins/)", Denbroeder Jean Luc
 - 13/02/2018, "L'effet parallax", Mickael Van Craenenbroeck
-- 20/02/2018, "[SemiCodeOS], Hammouten Farid 
+- 20/02/2018, "[SemiCodeOS], Hammouten Farid
 - 21/02/2018, "[Installation Wordpress en local]", Olivier NSHIMIYUMUKIZA
 - 26/02/2018, "[Webdesign Trends](http://www.webdesignertrends.com/)", Simon Romainville
 
 
 ### Mars
 - 01/03/2018, "",
-- 02/03/2018, "", 
+- 02/03/2018, "",
 - 05/03/2018, Honeypot, JD
 - 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko
 - 07/03/2018, ""
 - 08/03/2018, ""
 - 09/03/2018, ""
 - 12/03/2018, "[Enki](https://enki.com/), apprendre les bonnes pratiques graduellement", Simon Romainville
-- 13/03/2018, "", 
+- 13/03/2018, "",
 - 14/03/2018, "",
 - 15/03/2018, "14 technologies que tout les web dev doivent être capable d'expliquer", Olivier NSHIMIYUMUKIZA
 - 16/03/2018, ""
 - 19/03/2018, "popularité des frameworks Javascript" https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa , Nicolas Jamar
-- 20/03/2018,"",
-- 21/03/2018,"",
-- 22/03/2018,"",
-- 23/03/2018,"",
+- 20/03/2018,"", Denbroeder Jean Luc
+- 21/03/2018,"", Christophe Van Maercke
+- 22/03/2018,"", Maxime Delchambre
+- 23/03/2018,"", Marine Sclavons
 - 26/03/2018,"",
 - 27/03/2018,"",
 - 28/03/2018,"",
 - 29/03/2018,"",
 - 30/03/2018,"",
-
-
