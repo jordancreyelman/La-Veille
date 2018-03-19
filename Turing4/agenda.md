@@ -72,6 +72,7 @@ Format à respecter:
 | Me 28/03 | Geoffrey         | ...? |
 | Je 29/03 |Félicien
 | Ve 30/03 | Michael          | Twitch Developers API |
+| Sa 01/04 | Pierre          | Le Fishing |
 
 ### Nb de veilles déjà faites :
 
