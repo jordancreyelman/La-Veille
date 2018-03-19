@@ -62,7 +62,7 @@ Format à respecter:
 | Me 14/03 | Jordan           | Le cryptage de donnés |
 | Je 15/03 | THE COACH           | reset.css |
 | Ve 16/03 | Dorian           | wait and see |
-| Lu 19/03 | Sarah            | ...? |
+| Lu 19/03 | Sarah            | [Organiser son télétravail](https://prezi.com/p/7f1uk3wv4nce/)|
 | Ma 20/03 | Daniel           | ...? |
 | Me 21/03 |                  | ...? |
 | Je 22/03 |                  | ...? |
@@ -100,7 +100,7 @@ Format à respecter:
 |Mignot	Morgan    | 1|
 |Hennaux	Philippe | 1|
 |Grotard	Romain   | 1|
-|Klewiec	Sarah    | 1|
+|Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
 |Van Essche	Steve | 2|
 
