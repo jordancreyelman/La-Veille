@@ -70,6 +70,27 @@ Format à respecter:
 
 
 ### Mars
-- 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko 
+- 01/03/2018, "",
+- 02/03/2018, "", 
+- 05/03/2018, Honeypot, JD
+- 06/03/2018, Virtual Reality & AR & MR, Kateryna Grygorko
+- 07/03/2018, ""
+- 08/03/2018, ""
+- 09/03/2018, ""
 - 12/03/2018, "[Enki](https://enki.com/), apprendre les bonnes pratiques graduellement", Simon Romainville
+- 13/03/2018, "", 
+- 14/03/2018, "",
+- 15/03/2018, "14 technologies que tout les web dev doivent être capable d'expliquer", Olivier NSHIMIYUMUKIZA
+- 16/03/2018, ""
+- 19/03/2018, "popularité des frameworks Javascript" https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa , Nicolas Jamar
+- 20/03/2018,"",
+- 21/03/2018,"",
+- 22/03/2018,"",
+- 23/03/2018,"",
+- 26/03/2018,"",
+- 27/03/2018,"",
+- 28/03/2018,"",
+- 29/03/2018,"",
+- 30/03/2018,"",
+
 
