@@ -80,6 +80,7 @@ Format à respecter:
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 1|
+|Damien Bernard   | 0|
 |Janssen	Claude   | 2|
 |Muyshond	Daniel  | 1|
 |Haulin	Daphné    | 1|
