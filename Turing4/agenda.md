@@ -73,6 +73,7 @@ Format à respecter:
 | Je 29/03 |Félicien            | ...? |
 | Ve 30/03 | Michael          | Twitch Developers API |
 | Sa 01/04 | Pierre          | Le Fishing |
+| Lu 09/04 | Philippe H      | Ubuntu 18.04 |
 
 ### Nb de veilles déjà faites :
 
