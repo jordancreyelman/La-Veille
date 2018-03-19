@@ -50,8 +50,8 @@ Format à respecter:
 
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
-| Je 01/03 | Félicien         |La technologie Blockchain https://prezi.com/p/ultdft9eiy7d/ |
-| Ve 02/03 | Absent  | Noveille
+| Je 01/03 | Félicien         |[La technologie Blockchain](https://prezi.com/p/ultdft9eiy7d/) |
+| Ve 02/03 | Absent  | Noveille||
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | [Samsung DeX et le code](https://prezi.com/p/0a6qr_-uzsbk/)|
@@ -64,13 +64,13 @@ Format à respecter:
 | Ve 16/03 | Dorian           | wait and see |
 | Lu 19/03 | Sarah            | ...? |
 | Ma 20/03 | Daniel           | ...? |
-| Me 21/03 |
-| Je 22/03 | 
-| Ve 23/03 | David
+| Me 21/03 |                  | ...? |
+| Je 22/03 |                  | ...? |
+| Ve 23/03 | David            | ...? |
 | Lu 26/03 |Daphné            | ...? |
-| Ma 27/03 |Romain
+| Ma 27/03 |Romain            | ...? |
 | Me 28/03 | Geoffrey         | ...? |
-| Je 29/03 |Félicien
+| Je 29/03 |Félicien            | ...? |
 | Ve 30/03 | Michael          | Twitch Developers API |
 | Sa 01/04 | Pierre          | Le Fishing |
 
