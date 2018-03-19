@@ -63,10 +63,10 @@ Format à respecter:
 | Je 15/03 | THE COACH           | reset.css |
 | Ve 16/03 | Dorian           | wait and see |
 | Lu 19/03 | Sarah            | [Organiser son télétravail](https://prezi.com/p/7f1uk3wv4nce/)|
-| Ma 20/03 | Daniel           | ...? |
+| Ma 20/03 | Daniel           | bindparam(), column et motion |
 | Me 21/03 |                  | ...? |
-| Je 22/03 |                  | ...? |
-| Ve 23/03 | David            | ...? |
+| Je 22/03 | Félix            | Les outils d'analyse du trafic |
+| Ve 23/03 | David            | Le(s) référencement(s) SEO/SEA |
 | Lu 26/03 |Daphné            | ...? |
 | Ma 27/03 |Romain            | ...? |
 | Me 28/03 | Geoffrey         | ...? |
@@ -80,6 +80,7 @@ Format à respecter:
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 1|
+|Damien Bernard   | 0|
 |Janssen	Claude   | 2|
 |Muyshond	Daniel  | 1|
 |Haulin	Daphné    | 1|
