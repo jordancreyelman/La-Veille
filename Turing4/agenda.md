@@ -82,7 +82,9 @@ Format à respecter:
 | Sa 01/04 | Pierre          | Le Fishing |
 | Lu 09/04 | Philippe      | Ubuntu 18.04 |
 | Ma 10/04 | Claude      | WP && !WP |
-| Me 11/04 | Kévin      | ...? |
+| Me 11/04 | Jacques      | ...? |
+| Je 12/04 | Jennifer      | ...? |
+| Ve 13/04 | Jérôme      | ...? |
 
 </details>
 
