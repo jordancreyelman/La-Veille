@@ -72,8 +72,18 @@ Format à respecter:
 | Me 28/03 | Geoffrey         | ...? |
 | Je 29/03 |Félicien            | ...? |
 | Ve 30/03 | Michael          | Twitch Developers API |
+
+
+<details> 
+  <summary>Avril</summary>
+
+| Date          | Nom              | Sujet              |
+|:----------------:|:----------------:| ------------------:|
 | Sa 01/04 | Pierre          | Le Fishing |
-| Lu 09/04 | Philippe H      | Ubuntu 18.04 |
+| Lu 09/04 | Philippe      | Ubuntu 18.04 |
+| Ma 10/04 | Claude      | WP && !WP |
+
+</details>
 
 ### Nb de veilles déjà faites :
 
