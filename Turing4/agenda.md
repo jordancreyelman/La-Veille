@@ -83,8 +83,8 @@ Format à respecter:
 | Lu 09/04 | Philippe      | Ubuntu 18.04 |
 | Ma 10/04 | Claude      | WP && !WP |
 | Me 11/04 | Jacques      | ...? |
-| Je 12/04 | Jennifer      | ...? |
-| Ve 13/04 | Jérôme      | ...? |
+| Je 12/04 | Jennifer      | Responsive design |
+| Ve 13/04 | Jérôme      | Dark web & Deep web |
 
 </details>
 
