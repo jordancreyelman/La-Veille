@@ -96,7 +96,7 @@ Format à respecter:
 |Mootoosamy	Bryan | 1|
 |Janssen	Claude   | 2|
 |Bernard Damien   | 0|
-|Muyshond	Daniel  | 1|
+|Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 1|
 |Thewissen	David  | 1|
 |Collier	Dorian   | 1|
