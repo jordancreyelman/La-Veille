@@ -68,13 +68,13 @@ Format à respecter:
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
-- mardi  10/4/2018,"", ;
+- mardi  10/4/2018,"blocky.js", Antoine Gjeloshaj;
 
-- mercredi 11/4/2018, "", ;
+- mercredi 11/4/2018, "Arangobd",Antoine Gjeloshaj ;
 
-- jeudi 12/4/2018, "", ;
+- jeudi 12/4/2018, "Promise",Antoine Gjeloshaj ;
 
-- vendredi 13/4/2018, "", ;
+- vendredi 13/4/2018, "Li-Fi",Antoine Gjeloshaj ;
 
 - lundi 16/4/2018, "", ;
 
