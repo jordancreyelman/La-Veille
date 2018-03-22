@@ -101,7 +101,7 @@ Format à respecter:
 |Thewissen	David  | 1|
 |Collier	Dorian   | 1|
 |Manzi	Félicien   | 1|
-|Namêche	Félix    | 1|
+|Namêche	Félix    | 2|
 |Binon	Frédéric   | 1|
 |Canivet	Geoffrey | 2|
 |Bernard	Jacques  | 1|
