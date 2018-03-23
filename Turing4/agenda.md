@@ -98,7 +98,7 @@ Format à respecter:
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 1|
-|Thewissen	David  | 1|
+|Thewissen	David  | 2|
 |Collier	Dorian   | 1|
 |Manzi	Félicien   | 1|
 |Namêche	Félix    | 2|
