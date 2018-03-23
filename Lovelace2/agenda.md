@@ -60,7 +60,7 @@ Format à respecter:
 
 - mardi  3/4/2018,"Introduction à Redux", Thomas Fist;
 
-- mercredi 4/4/2018, "", ;
+- mercredi 4/4/2018, "Callback",Antoine Gjeloshaj ;
 
 - jeudi 5/4/2018, "Les DNS",Antoine Gjeloshaj, ;
 
