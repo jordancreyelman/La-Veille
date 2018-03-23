@@ -85,6 +85,8 @@ Format à respecter:
 | Me 11/04 | Jacques      | ...? |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
+| Lu 16/04 | Damien      | Les textiles intelligent |
+
 
 </details>
 
