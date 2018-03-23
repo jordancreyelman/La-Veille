@@ -66,7 +66,7 @@ Format à respecter:
 | Ma 20/03 |                  | NO VEILLE (Visiteurs)  |
 | Me 21/03 | Daniel           | bindparam(), column et motion
 | Je 22/03 | Félix            | Les outils d'analyse du trafic |
-| Ve 23/03 | David            | Le(s) référencement(s) SEO/SEA |
+| Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
 | Lu 26/03 |Daphné            | ...? |
 | Ma 27/03 |Romain            | ...? |
 | Me 28/03 | Geoffrey         | ...? |
