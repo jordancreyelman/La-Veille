@@ -67,7 +67,7 @@ Format à respecter:
 | Me 21/03 | Daniel           | bindparam(), column et motion
 | Je 22/03 | Félix            | Les outils d'analyse du trafic |
 | Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
-| Lu 26/03 |Daphné            | ...? |
+| Lu 26/03 |Daphné            | Autosploit - piratage des objets connectés(https://prezi.com/p/-dtilgqard9j/)|
 | Ma 27/03 |Romain            | ...? |
 | Me 28/03 | Geoffrey         | ...? |
 | Je 29/03 |Félicien            | ...? |
@@ -99,7 +99,7 @@ Format à respecter:
 |Janssen	Claude   | 2|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
-|Haulin	Daphné    | 1|
+|Haulin	Daphné    | 2|
 |Thewissen	David  | 2|
 |Collier	Dorian   | 1|
 |Manzi	Félicien   | 1|
