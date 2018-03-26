@@ -84,10 +84,10 @@ Format à respecter:
 - 16/03/2018, ""
 - 19/03/2018, "popularité des frameworks Javascript" https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa , Nicolas Jamar
 - 20/03/2018,"", Denbroeder Jean Luc [Optimisation des images pour le web](https://docs.google.com/presentation/d/1T3slViPqh_gH_NOn6V4m1yfPw885QxzzL4JTsuEWjew/edit?usp=sharing)
-- 21/03/2018,"", Christophe Van Maercke
+- 21/03/2018,""
 - 22/03/2018,"", Maxime Delchambre
 - 23/03/2018,"", Marine Sclavons
-- 26/03/2018,"",
+- 26/03/2018,"", UX Design, Christophe Van Maercke
 - 27/03/2018,"",
 - 28/03/2018,"",
 - 29/03/2018,"",
