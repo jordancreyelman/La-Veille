@@ -64,7 +64,7 @@ Format à respecter:
 
 - jeudi 5/4/2018, "Les DNS",Antoine Gjeloshaj, ;
 
-- vendredi 6/4/2018, "Hack Your Future belgium The coding school", Muttwakil Mo, ;
+- vendredi 6/4/2018, "", , ;
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
