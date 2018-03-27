@@ -116,7 +116,7 @@ Format à respecter:
 |Bourloo	Michael  | 1|
 |Mignot	Morgan    | 1|
 |Hennaux	Philippe | 1|
-|Grotard	Romain   | 1|
+|Grotard	Romain   | 2|
 |Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
 |Van Essche	Steve | 2|
