@@ -87,8 +87,8 @@ Format à respecter:
 - 21/03/2018,""
 - 22/03/2018,"", Maxime Delchambre
 - 23/03/2018,"", Marine Sclavons
-- 26/03/2018,"", UX Design, Christophe Van Maercke
-- 27/03/2018,"",
+- 26/03/2018,"UX Design", Christophe Van Maercke
+- 27/03/2018,"Google Analytics", Alixe Boumeridja
 - 28/03/2018,"",
 - 29/03/2018,"",
 - 30/03/2018,"",
