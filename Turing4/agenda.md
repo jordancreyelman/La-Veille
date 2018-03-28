@@ -69,7 +69,7 @@ Format à respecter:
 | Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
 | Lu 26/03 |Daphné            | Autosploit - piratage des objets connectés(https://prezi.com/p/-dtilgqard9j/)|
 | Ma 27/03 |Romain            | ...? |
-| Me 28/03 | Geoffrey         | ...? |
+| Me 28/03 | Geoffrey         | https://prezi.com/view/dA1DNib4VlZNzq7DKDGg/ |
 | Je 29/03 |Félicien            | ...? |
 | Ve 30/03 | Michael          | Wunderlist Tracker Time |
 
@@ -105,7 +105,7 @@ Format à respecter:
 |Manzi	Félicien   | 1|
 |Namêche	Félix    | 2|
 |Binon	Frédéric   | 1|
-|Canivet	Geoffrey | 2|
+|Canivet	Geoffrey | 3|
 |Bernard	Jacques  | 1|
 |Van Kelst	Jennifer | 1|
 |Gretzer	Jérôme   | 1|
