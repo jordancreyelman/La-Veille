@@ -56,15 +56,15 @@ Format à respecter:
 
 - vendredi 30/03/2018, "Surprise de la chèfe", Lys;
 
-- lundi 2/4/2018, "Introduction au NoSQL", Steve;
+- lundi 2/4/2018, "", ;
 
-- mardi  3/4/2018,"Introduction à Redux", Thomas Fist;
+- mardi  3/4/2018,"Introduction au NoSQL", Steve ;
 
 - mercredi 4/4/2018, "Callback",Antoine Gjeloshaj ;
 
 - jeudi 5/4/2018, "Les DNS",Antoine Gjeloshaj, ;
 
-- vendredi 6/4/2018, "", , ;
+- vendredi 6/4/2018, "Introduction à Redux", Thomas Fist , ;
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
