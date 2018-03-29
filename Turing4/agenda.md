@@ -68,7 +68,7 @@ Format à respecter:
 | Je 22/03 | Félix            | Les outils d'analyse du trafic |
 | Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
 | Lu 26/03 |Daphné            | Autosploit - piratage des objets connectés(https://prezi.com/p/-dtilgqard9j/)|
-| Ma 27/03 |Romain            | ...? |
+| Ma 27/03 |Romain            | Portfolio WebDev |
 | Me 28/03 | Geoffrey         | https://prezi.com/view/dA1DNib4VlZNzq7DKDGg/ |
 | Je 29/03 |Félicien          |  Générateur de template HTML5
 | Ve 30/03 | Michael          | Wunderlist Tracker Time |
