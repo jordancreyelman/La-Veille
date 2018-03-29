@@ -70,7 +70,7 @@ Format à respecter:
 | Lu 26/03 |Daphné            | Autosploit - piratage des objets connectés(https://prezi.com/p/-dtilgqard9j/)|
 | Ma 27/03 |Romain            | ...? |
 | Me 28/03 | Geoffrey         | https://prezi.com/view/dA1DNib4VlZNzq7DKDGg/ |
-| Je 29/03 |Félicien            | ...? |
+| Je 29/03 |Félicien          |  Générateur de template HTML5
 | Ve 30/03 | Michael          | Wunderlist Tracker Time |
 
 
