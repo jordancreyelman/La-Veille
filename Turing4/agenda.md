@@ -113,7 +113,7 @@ Format à respecter:
 |Charlier	Kévin   | 1|
 |Ceccoti	Ludovic  | 2|
 |Leers	Mathieu    | 1|
-|Bourloo	Michael  | 1|
+|Bourloo	Michael  | 2|
 |Mignot	Morgan    | 1|
 |Hennaux	Philippe | 1|
 |Grotard	Romain   | 2|
