@@ -82,7 +82,7 @@ Format à respecter:
 
 - mercredi 18/4/2018, "", ;
 
-- jeudi 19/4/2018, "", ;
+- jeudi 19/4/2018, "Une dernière pour la route ? ", Syl;
 
 - vendredi 20/4/2018, "", ;
 
