@@ -47,6 +47,8 @@ Format à respecter:
 
 </details>
 
+<details> 
+  <summary>Mars</summary>
 
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
@@ -67,28 +69,25 @@ Format à respecter:
 | Me 21/03 | Daniel           | bindparam(), column et motion
 | Je 22/03 | Félix            | Les outils d'analyse du trafic |
 | Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
-| Lu 26/03 |Daphné            | Autosploit - piratage des objets connectés(https://prezi.com/p/-dtilgqard9j/)|
+| Lu 26/03 |Daphné            | [Autosploit - piratage des objets connectés](https://prezi.com/p/-dtilgqard9j/)|
 | Ma 27/03 |Romain            | Portfolio WebDev |
-| Me 28/03 | Geoffrey         | https://prezi.com/view/dA1DNib4VlZNzq7DKDGg/ |
-| Je 29/03 |Félicien          |  Générateur de template HTML5
-| Ve 30/03 | Michael          | Wunderlist Tracker Time |
+| Me 28/03 | Geoffrey         | Les outils du WebDev (https://prezi.com/view/dA1DNib4VlZNzq7DKDGg/) |
+| Je 29/03 |Félicien          | [schnaps.it, générateur de templates HTML5 et CSS3](https://schnaps.it) |
+| Ve 30/03 | Michael          | [Wunderlist Tracker Time]() |
 
+</details>
 
-<details> 
-  <summary>Avril</summary>
 
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
-| Sa 01/04 | Pierre          | Le Fishing |
 | Lu 09/04 | Philippe      | Ubuntu 18.04 |
-| Ma 10/04 | Claude      | Comment faire un lien en markdown :) |
+| Ma 10/04 | Damien ?     | |
 | Me 11/04 | Jacques      | ...? |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
-| Lu 16/04 | Damien      | Les textiles intelligent |
+| Lu 16/04 | Damien      | Les textiles intelligents |
 
 
-</details>
 
 ### Nb de veilles déjà faites :
 
@@ -102,7 +101,7 @@ Format à respecter:
 |Haulin	Daphné    | 2|
 |Thewissen	David  | 2|
 |Collier	Dorian   | 1|
-|Manzi	Félicien   | 1|
+|Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
 |Binon	Frédéric   | 1|
 |Canivet	Geoffrey | 3|
