@@ -53,7 +53,7 @@ Format à respecter:
 | Date          | Nom              | Sujet              |
 |:----------------:|:----------------:| ------------------:|
 | Je 01/03 | Félicien         |[La technologie Blockchain](https://prezi.com/p/ultdft9eiy7d/) |
-| Ve 02/03 | Absent  | Noveille||
+| Ve 02/03 | Absent  | NO VEILLE|
 | Lu 05/03 | Geoffrey         | Les indispensables (raccourcis) |
 | Ma 06/03 | Félix            | Robots.txt |
 | Me 07/03 | Philippe H.      | [Samsung DeX et le code](https://prezi.com/p/0a6qr_-uzsbk/)|
@@ -62,11 +62,11 @@ Format à respecter:
 | Lu 12/03 | Steve            | SASS |
 | Ma 13/03 | Frédéric         | Scroll infini |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
-| Je 15/03 | THE COACH           | reset.css |
+| Je 15/03 | THE COACH        | reset.css |
 | Ve 16/03 | Dorian           | wait and see |
 | Lu 19/03 | Sarah            | [Organiser son télétravail](https://prezi.com/p/7f1uk3wv4nce/)|
-| Ma 20/03 |                  | NO VEILLE (Visiteurs)  |
-| Me 21/03 | Daniel           | bindparam(), column et motion
+| Ma 20/03 | (Visiteurs)      | NO VEILLE   |
+| Me 21/03 | Daniel           | bindparam(), column et motion   |
 | Je 22/03 | Félix            | Les outils d'analyse du trafic |
 | Ve 23/03 | David            | [Le(s) référencement(s) SEO/SEA](http://prezi.com/gcn2zav-qspq/?utm_campaign=share&utm_medium=copy&rc=ex0share) |
 | Lu 26/03 |Daphné            | [Autosploit - piratage des objets connectés](https://prezi.com/p/-dtilgqard9j/)|
@@ -78,16 +78,24 @@ Format à respecter:
 </details>
 
 
-| Date          | Nom              | Sujet              |
+| Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Lu 09/04 | Philippe      | Ubuntu 18.04 |
-| Ma 10/04 | Damien ?     | |
+| Ma 10/04 | Claude     | HappyMeal |
 | Me 11/04 | Jacques      | ...? |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
 | Lu 16/04 | Damien      | Les textiles intelligents |
-
-
+| Ma 17/04 | | |
+| Me 18/04 | | |
+| Je 19/04 | | |
+| Ve 20/04 | | |
+| Lu 23/04 | | |
+| Ma 24/04 | | |
+| Me 25/04 | | |
+| Je 26/04 | | |
+| Ve 27/04 | | |
+| Lu 30/04 | | |
 
 ### Nb de veilles déjà faites :
 
