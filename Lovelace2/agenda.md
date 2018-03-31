@@ -62,19 +62,18 @@ Format à respecter:
 
 - mercredi 4/4/2018, "Callback",Antoine Gjeloshaj ;
 
-- jeudi 5/4/2018, "Les DNS",Antoine Gjeloshaj, ;
+- jeudi 5/4/2018, "",, ;
 
 - vendredi 6/4/2018, "Introduction à Redux", Thomas Fist , ;
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
-- mardi  10/4/2018,"blocky.js", Antoine Gjeloshaj;
+- mardi  10/4/2018,"blocky.js ou DNS j'hésite", Antoine Gjeloshaj;
 
 - mercredi 11/4/2018, "Arangobd",Antoine Gjeloshaj ;
 
 - jeudi 12/4/2018, "Promise",Antoine Gjeloshaj ;
 
-- vendredi 13/4/2018, "Li-Fi",Antoine Gjeloshaj ;
 
 - lundi 16/4/2018, "", ;
 
