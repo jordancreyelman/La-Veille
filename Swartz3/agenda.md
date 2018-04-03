@@ -93,4 +93,9 @@ Format à respecter:
 - 29/03/2018,"",
 - 30/03/2018,"",
 ### Avril
+- 01/04/2018
+- 02/04/2018
+- 03/04/2018, "https://bitbucket.org/", Hammouten Farid
+- 04/04/2018, ""
 - 05/04/2018,"Node.js",Antoine Gjeloshaj
+- 06/04/2018, "",
