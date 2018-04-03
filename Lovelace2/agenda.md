@@ -6,86 +6,36 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- lundi  26/02/2018,"SEO 2.0", Steve ;
 
-- mardi  27/02/2018,"This !", Antoine Gjeloshaj;
+- lundi 2/4/2018, "",, ;
 
-- mercredi 28/02/2018, "Client mail", Vincent ;
-
-- jeudi 01/03/2018, "Opengraph", Nicolas VR aka EZ;
-
-- vendredi 02/03/2018, "Guerilla Usability Testing", Alexandre;
-
-- lundi  5/3/2018,"Code is poetry", Stéphane ;
-
-- mardi  6/3/2018,"Injections en Javascript", Ornella;
-
-- mercredi 7/3/2018, "Hackers, am I safe?", Marvin LOUIS;
-
-- jeudi 8/03/2018, "générateur de code", Alexandre;
-
-- vendredi 9/03/2018, "Object",Antoine Gjeloshaj;
-
-- lundi 12/03/2018, "Les case studies et la rédaction pour le web", Ax;
-
-- mardi  13/3/2018, "Présentation du deep web", Omar;
-
-- mercredi 14/3/2018, "0110110001100101001000000110110001100001011011100110011101110101011000010110011101100101001000000110000101110011011000110110100101101001", Nicola Belpois;
-
-- jeudi 15/03/2018, "Node.js chez swartz",Antoine;
-
-- vendredi 16/03/2018, "indexeddb", Kévin Somao;
-
-- lundi 19/03/2018, workshop de Marvin
-
-- mardi  20/3/2018,Workshop de Cali & Workshop Kévin F.
-
-- mercredi 21/3/2018, "Object",Antoine Gjeloshaj;
-
-- jeudi 22/03/2018, "Créer un jeu de rôle en JS avec RPGMakerMV", Axel;
-
-- vendredi 23/03/2018, Workshop Ornella & Marie-Ange
-
-- lundi 26/03/2018, Workshop Daniel;
-
-- mardi  27/3/2018, Workshop Valérian;
-
-- mercredi 28/3/2018, "Surprise du chef", Gaetan;
-
-- jeudi 29/03/2018, "Surprise du chef mais pas du CSS!", Weichuan;
-
-- vendredi 30/03/2018, "Lacher-prise", Lys;
-
-- lundi 2/4/2018, "", ;
-
-- mardi  3/4/2018,"Introduction au NoSQL", Steve ;
+- mardi  3/4/2018,"Arangobd",Antoine Gjeloshaj  ;
 
 - mercredi 4/4/2018, "Callback",Antoine Gjeloshaj ;
 
-- jeudi 5/4/2018, "",, ;
+- jeudi 5/4/2018, "Prestashop",Andaroth, ;
 
 - vendredi 6/4/2018, "Introduction à Redux", Thomas Fist , ;
 
 - lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
 
-- mardi  10/4/2018,"blocky.js ou DNS j'hésite", Antoine Gjeloshaj;
+- mardi  10/4/2018,"DNS", Antoine Gjeloshaj;
 
-- mercredi 11/4/2018, "Arangobd",Antoine Gjeloshaj ;
+- mercredi 11/4/2018, ; "Introduction au NoSQL", Steve;
 
 - jeudi 12/4/2018, "Promise",Antoine Gjeloshaj ;
 
+- vendredi 13/4/2018, "Workshop Meteor" Bertrand;
 
-- lundi 16/4/2018, "", ;
+- lundi 16/4/2018, "Workshop Kévin" ;
 
-- mardi  17/4/2018,"", ;
+- mardi  17/4/2018,"Surprise du chef", Kévin F. ;
 
-- mercredi 18/4/2018, "", ;
+- mercredi 18/4/2018, "Surprise du chef maus pas du CSS", Weich ;
 
 - jeudi 19/4/2018, "Une dernière pour la route ? ", Syl;
 
 - vendredi 20/4/2018, "", ;
-
-- lundi 23/4/2018, "", ;
 
 
 
@@ -276,5 +226,55 @@ Format à respecter:
 - mercredi 21/02/2018, "gitignore", Valerian ;
 
 - jeudi 22/02/2018, "Zapier to Ryver : Le Bonheur", Alexandre ;
+
+- lundi  26/02/2018,"SEO 2.0", Steve ;
+
+- mardi  27/02/2018,"This !", Antoine Gjeloshaj;
+
+- mercredi 28/02/2018, "Client mail", Vincent ;
+
+- jeudi 01/03/2018, "Opengraph", Nicolas VR aka EZ;
+
+- vendredi 02/03/2018, "Guerilla Usability Testing", Alexandre;
+
+- lundi  5/3/2018,"Code is poetry", Stéphane ;
+
+- mardi  6/3/2018,"Injections en Javascript", Ornella;
+
+- mercredi 7/3/2018, "Hackers, am I safe?", Marvin LOUIS;
+
+- jeudi 8/03/2018, "générateur de code", Alexandre;
+
+- vendredi 9/03/2018, "Object",Antoine Gjeloshaj;
+
+- lundi 12/03/2018, "Les case studies et la rédaction pour le web", Ax;
+
+- mardi  13/3/2018, "Présentation du deep web", Omar;
+
+- mercredi 14/3/2018, "0110110001100101001000000110110001100001011011100110011101110101011000010110011101100101001000000110000101110011011000110110100101101001", Nicola Belpois;
+
+- jeudi 15/03/2018, "Node.js chez swartz",Antoine;
+
+- vendredi 16/03/2018, "indexeddb", Kévin Somao;
+
+- lundi 19/03/2018, workshop de Marvin
+
+- mardi  20/3/2018,Workshop de Cali & Workshop Kévin F.
+
+- mercredi 21/3/2018, "Object",Antoine Gjeloshaj;
+
+- jeudi 22/03/2018, "Créer un jeu de rôle en JS avec RPGMakerMV", Axel;
+
+- vendredi 23/03/2018, Workshop Ornella & Marie-Ange
+
+- lundi 26/03/2018, Workshop Daniel;
+
+- mardi  27/3/2018, Workshop Valérian;
+
+- mercredi 28/3/2018, "Surprise du chef", Gaetan;
+
+- jeudi 29/03/2018, "Surprise du chef mais pas du CSS!", Weichuan;
+
+- vendredi 30/03/2018, "Lacher-prise", Lys;
 
 - vendredi 23/02/2018, "Code is poetry", Stéphane ;
