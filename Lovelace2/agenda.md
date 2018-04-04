@@ -11,7 +11,7 @@ Format à respecter:
 
 - mardi  3/4/2018,"Arangobd",Antoine Gjeloshaj  ;
 
-- mercredi 4/4/2018, "Callback",Antoine Gjeloshaj ;
+- mercredi 4/4/2018, "Internet et le web",Antoine Gjeloshaj ;
 
 - jeudi 5/4/2018, "Prestashop",Andaroth, ;
 
