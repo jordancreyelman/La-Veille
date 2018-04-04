@@ -23,7 +23,7 @@ Format à respecter:
 
 - mercredi 11/4/2018, ; "Introduction au NoSQL", Steve;
 
-- jeudi 12/4/2018, "Promise",Antoine Gjeloshaj ;
+- jeudi 12/4/2018, "Workshop Node.js",Antoine Gjeloshaj ;
 
 - vendredi 13/4/2018, "Workshop Meteor" Bertrand;
 
