@@ -96,6 +96,6 @@ Format à respecter:
 - 01/04/2018
 - 02/04/2018
 - 03/04/2018, "https://bitbucket.org/", Hammouten Farid
-- 04/04/2018, ""
+- 04/04/2018, "Laragon" Van Craenenbroeck Mickael
 - 05/04/2018,"Node.js",Antoine Gjeloshaj
 - 06/04/2018, "",
