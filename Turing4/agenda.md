@@ -90,7 +90,7 @@ Format à respecter:
 | Me 18/04 | | |
 | Je 19/04 | | |
 | Ve 20/04 | | |
-| Lu 23/04 | | |
+| Lu 23/04 |Bryan | les techniques d'animations|
 | Ma 24/04 | | |
 | Me 25/04 | | |
 | Je 26/04 | | |
