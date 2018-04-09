@@ -86,7 +86,7 @@ Format à respecter:
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
 | Lu 16/04 | Damien      | Les textiles intelligents |
-| Ma 17/04 | | |
+| Ma 17/04 | Daphné      | ODOO
 | Me 18/04 | | |
 | Je 19/04 | | |
 | Ve 20/04 | | |
