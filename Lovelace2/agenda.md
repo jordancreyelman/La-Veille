@@ -17,9 +17,9 @@ Format à respecter:
 
 - vendredi 6/4/2018, "Introduction à Redux", Thomas Fist , ;
 
-- lundi 9/4/2018, "Languages de programmations bizzare", Antoine Gjeloshaj;
+- lundi 9/4/2018, "DNS", Antoine Gjeloshaj;
 
-- mardi  10/4/2018,"DNS", Antoine Gjeloshaj;
+- mardi  10/4/2018,"Une très grosse veille", Antoine Gjeloshaj;
 
 - mercredi 11/4/2018, ; "Introduction au NoSQL", Steve;
 
