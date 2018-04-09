@@ -80,7 +80,7 @@ Format à respecter:
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Lu 09/04 | Philippe      | Ubuntu 18.04 |
+| Lu 09/04 | Philippe      | Ubuntu 18.04 | [https://prezi.com/p/fqu2hw4u6zos/] |
 | Ma 10/04 | Claude     | HappyMeal |
 | Me 11/04 | Jacques      | ...? |
 | Je 12/04 | Jennifer      | Responsive design |
