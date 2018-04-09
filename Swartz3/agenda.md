@@ -99,3 +99,4 @@ Format à respecter:
 - 04/04/2018, "Laragon" Van Craenenbroeck Mickael
 - 05/04/2018,"Node.js",Antoine Gjeloshaj
 - 06/04/2018, "",
+- 09/04/2018, "Zapier", Van Craenenbroeck Mickael
