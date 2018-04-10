@@ -80,8 +80,8 @@ Format à respecter:
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Lu 09/04 | Philippe      | Ubuntu 18.04 | [https://prezi.com/p/fqu2hw4u6zos/] |
-| Ma 10/04 | Claude     | HappyMeal |
+| Lu 09/04 | Philippe      | [Ubuntu 18.04](https://prezi.com/p/fqu2hw4u6zos/) |
+| Ma 10/04 | Claude     | [Obligations légales d'un site et divers](https://prezi.com/p/w0glnjyn8aam/) |
 | Me 11/04 | Jacques      | ...? |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
@@ -103,7 +103,7 @@ Format à respecter:
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 1|
-|Janssen	Claude   | 2|
+|Janssen	Claude   | 3|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 2|
