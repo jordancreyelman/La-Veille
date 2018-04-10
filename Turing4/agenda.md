@@ -122,7 +122,7 @@ Format à respecter:
 |Leers	Mathieu    | 1|
 |Bourloo	Michael  | 2|
 |Mignot	Morgan    | 1|
-|Hennaux	Philippe | 1|
+|Hennaux	Philippe | 2|
 |Grotard	Romain   | 2|
 |Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
