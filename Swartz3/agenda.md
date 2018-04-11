@@ -100,3 +100,5 @@ Format à respecter:
 - 05/04/2018,"Node.js",Antoine Gjeloshaj
 - 06/04/2018, "",
 - 09/04/2018, "Zapier", Van Craenenbroeck Mickael
+- 10/04/2018, "",
+- 11/04/2018, "Parsleyjs", Olivier N
