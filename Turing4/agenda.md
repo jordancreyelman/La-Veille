@@ -82,7 +82,7 @@ Format à respecter:
 |:----------------:|:----------------:| ------------------:|
 | Lu 09/04 | Philippe      | [Ubuntu 18.04](https://prezi.com/p/fqu2hw4u6zos/) |
 | Ma 10/04 | Claude     | [Obligations légales d'un site et divers](https://prezi.com/p/w0glnjyn8aam/) |
-| Me 11/04 | Jacques      | ...? |
+| Me 11/04 | Jacques      | Les OS |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
 | Lu 16/04 | Damien      | Les textiles intelligents |
@@ -113,7 +113,7 @@ Format à respecter:
 |Namêche	Félix    | 2|
 |Binon	Frédéric   | 1|
 |Canivet	Geoffrey | 3|
-|Bernard	Jacques  | 1|
+|Bernard	Jacques  | 2|
 |Van Kelst	Jennifer | 1|
 |Gretzer	Jérôme   | 1|
 |Flament	Jordan   | 2|
