@@ -5,7 +5,13 @@ Format à respecter:
 
 ## L'agenda des veilles à Cycorp 2
 
+### Avril Cycorp SPECIAL VEILLE !!!!
 
+.........  AKKAD LE GARDIEN DU MONDE PERDU ..........
+
+- Mercredi 18/4/2018 "*Codage / Décodage. (Compression / Décompression).*", __Saritas Akkad__
+
+.........  AKKAD LE GARDIEN DU MONDE PERDU ..........
 ### Mars
 
 - Jeudi 01/03/2018 "*AngularJS*", __Michael Bavier__ (absent)
