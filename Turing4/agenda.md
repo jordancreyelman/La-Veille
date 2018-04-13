@@ -115,7 +115,7 @@ Format à respecter:
 |Canivet	Geoffrey | 3|
 |Bernard	Jacques  | 2|
 |Van Kelst	Jennifer | 2|
-|Gretzer	Jérôme   | 1|
+|Gretzer	Jérôme   | 2|
 |Flament	Jordan   | 2|
 |Charlier	Kévin   | 1|
 |Ceccoti	Ludovic  | 2|
