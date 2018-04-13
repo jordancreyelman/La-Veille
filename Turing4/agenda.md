@@ -114,7 +114,7 @@ Format à respecter:
 |Binon	Frédéric   | 1|
 |Canivet	Geoffrey | 3|
 |Bernard	Jacques  | 2|
-|Van Kelst	Jennifer | 1|
+|Van Kelst	Jennifer | 2|
 |Gretzer	Jérôme   | 1|
 |Flament	Jordan   | 2|
 |Charlier	Kévin   | 1|
