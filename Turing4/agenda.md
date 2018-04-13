@@ -109,7 +109,7 @@ Format à respecter:
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 2|
 |Thewissen	David  | 2|
-|Collier	Dorian   | 1|
+|Collier	Dorian   | 2|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
 |Binon	Frédéric   | 1|
