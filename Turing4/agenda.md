@@ -13,7 +13,7 @@ Format à respecter:
  | Date          | Nom              | Sujet              |
  |:----------------:|:----------------:| ------------------:|
  | Je 25/01 | Claude | [Google AMP](https://github.com/ClaudeJanssenPro/veille250118_amp) |
- | Ve 26/01 | Dorien Collier | [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
+ | Ve 26/01 | Dorian C| [La méthode Jacotot](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/8FxtYHOcQ-GuswT/jacotot.pdf) |
  | Lu 29/01 | Steve Van E.     | [Les grilles CSS](https://github.com/Steve-VE/CSS-Grid) |
  | Ma 30/01 | Sarah            | [Optimisation d'image]() |
  | Me 31/01 | Mathieu L.       | [html 5.1]() |
