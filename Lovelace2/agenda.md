@@ -80,7 +80,7 @@ Format à respecter:
 
 - jeudi 26/10/2017, "Selecteur CSS ", Weichuan Tran ;
 
-- vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
+- vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent ;
 
 - lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
 
@@ -147,7 +147,7 @@ Format à respecter:
 
 - jeudi 14/12/2017,
 
-- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
+- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent
 
 - lundi 18/12/2017, "Asymmetric encryption"  , Antoine Gjeloshaj
 
