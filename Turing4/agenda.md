@@ -95,7 +95,7 @@ Format à respecter:
 | Ma 24/04 |Kévin | |
 | Me 25/04 |Romain |
 | Je 26/04 | | |
-| Ve 27/04 | | |
+| Ve 27/04 |Michael | Sujet... En R/C |
 | Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
 
 ### Nb de veilles déjà faites :
