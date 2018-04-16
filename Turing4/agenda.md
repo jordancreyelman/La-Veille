@@ -2,7 +2,7 @@
  
  ### Veille Master
 - pour le calendrier du 05/03 au 16/03/2018 : **ARNAUD D.**
-- pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.** lips kiss 
+- pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.** 
 - pour le calendrier du 16/04 au 30/04/2018 : **GEOFFREY C.:star:**
 
 Format à respecter:   
