@@ -93,7 +93,7 @@ Format à respecter:
 | Ve 20/04 | | |
 | Lu 23/04 |Bryan | les techniques d'animations|
 | Ma 24/04 |Kévin | |
-| Me 25/04 | | |
+| Me 25/04 |Romain |
 | Je 26/04 | | |
 | Ve 27/04 | | |
 | Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
