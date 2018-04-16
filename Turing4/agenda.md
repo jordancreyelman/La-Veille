@@ -87,10 +87,10 @@ Format à respecter:
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
 | Lu 16/04 | Ludo        |
-| Ma 17/04 | Daphné      | ODOO
+| Ma 17/04 | Daphné      | ODOO |
 | Me 18/04 | Bryan       | les techniques d'animations|
 | Je 19/04 | Daniel      | Pocket et Evernote, deux assistants très puissants |
-| Ve 20/04 | | |
+| Ve 20/04 | Mathieu     |  |
 | Lu 23/04 |
 | Ma 24/04 |Kévin | |
 | Me 25/04 |Romain |
