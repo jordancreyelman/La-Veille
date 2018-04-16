@@ -119,7 +119,7 @@ Format à respecter:
 |Gretzer	Jérôme   | 2|
 |Flament	Jordan   | 2|
 |Charlier	Kévin   | 1|
-|Ceccoti	Ludovic  | 2|
+|Ceccoti	Ludovic  | 3|
 |Leers	Mathieu    | 1|
 |Bourloo	Michael  | 2|
 |Mignot	Morgan    | 2|
