@@ -107,7 +107,7 @@ Format à respecter:
 |Janssen	Claude   | 3|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
-|Haulin	Daphné    | 2|
+|Haulin	Daphné    | 3|
 |Thewissen	David  | 2|
 |Collier	Dorian   | 2|
 |Manzi	Félicien   | 2|
