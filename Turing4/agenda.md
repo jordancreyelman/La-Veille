@@ -86,7 +86,7 @@ Format à respecter:
 | Me 11/04 | Jacques      | Les OS |
 | Je 12/04 | Jennifer      | Responsive design |
 | Ve 13/04 | Jérôme      | Dark web & Deep web |
-| Lu 16/04 | Ludo        |
+| Lu 16/04 | Ludo        | Veille improvisée  |
 | Ma 17/04 | Daphné      | ODOO |
 | Me 18/04 | Bryan       | les techniques d'animations|
 | Je 19/04 | Daniel      | Pocket et Evernote, deux assistants très puissants |
