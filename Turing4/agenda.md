@@ -91,7 +91,6 @@ Format à respecter:
 | Me 18/04 | Bryan       | les techniques d'animations|
 | Je 19/04 | Daniel      | Pocket et Evernote, deux assistants très puissants |
 | Ve 20/04 | Mathieu     |  |
-| Ve 20/04 Bis | The Coach     |  Raspberry pi |
 | Lu 23/04 |
 | Ma 24/04 |Kévin | |
 | Me 25/04 |Romain |
