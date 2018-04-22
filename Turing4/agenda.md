@@ -94,9 +94,11 @@ Format à respecter:
 | Lu 23/04 |
 | Ma 24/04 |Kévin | |
 | Me 25/04 |Romain |
-| Je 26/04 |Morgan | je ne sais pas|
+| Je 26/04 |Morgan | je ne sais pas |
 | Ve 27/04 |Michael | Sujet... En R/C |
 | Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
+| Ma 01/05 (ou Me 02/05)| Jordan | MySQL 8.0 |
+
 
 ### Nb de veilles déjà faites :
 
