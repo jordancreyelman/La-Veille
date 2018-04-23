@@ -92,7 +92,7 @@ Format à respecter:
 | Je 19/04 | Daniel      | Pocket et Evernote, deux assistants très puissants |
 | Ve 20/04 | Mathieu     |  |
 | Lu 23/04 |
-| Ma 24/04 |Kévin | |
+| Ma 24/04 |Kévin | CRM & ERP |
 | Me 25/04 |Romain |
 | Je 26/04 |Morgan | je ne sais pas |
 | Ve 27/04 |Michael | Sujet... En R/C |
