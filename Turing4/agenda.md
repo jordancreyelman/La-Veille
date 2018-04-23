@@ -91,7 +91,7 @@ Format à respecter:
 | Me 18/04 | Bryan       | les techniques d'animations|
 | Je 19/04 | Daniel      | Pocket et Evernote, deux assistants très puissants |
 | Ve 20/04 | Mathieu     |  |
-| Lu 23/04 |
+| Lu 23/04 |     | Don't forget your veille !
 | Ma 24/04 |Kévin | CRM & ERP |
 | Me 25/04 |Romain |
 | Je 26/04 |Morgan | je ne sais pas |
