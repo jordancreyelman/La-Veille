@@ -120,7 +120,7 @@ Format à respecter:
 |Van Kelst	Jennifer | 2|
 |Gretzer	Jérôme   | 2|
 |Flament	Jordan   | 2|
-|Charlier	Kévin   | 1|
+|Charlier	Kévin   | 2|
 |Ceccoti	Ludovic  | 3|
 |Leers	Mathieu    | 1|
 |Bourloo	Michael  | 2|
