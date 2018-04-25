@@ -93,7 +93,7 @@ Format à respecter:
 | Ve 20/04 | Mathieu     |  |
 | Lu 23/04 |     | Don't forget your veille !
 | Ma 24/04 |Kévin | Windows 10 1803 - Redstone 4 |
-| Me 25/04 |Romain |
+| Me 25/04 |Romain | Art Intéractif |
 | Je 26/04 |Morgan | je ne sais pas |
 | Ve 27/04 |Michael | Sujet... En R/C |
 | Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
@@ -126,7 +126,7 @@ Format à respecter:
 |Bourloo	Michael  | 2|
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 2|
-|Grotard	Romain   | 2|
+|Grotard	Romain   | 3|
 |Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
 |Van Essche	Steve | 2|
