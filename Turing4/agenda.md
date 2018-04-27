@@ -94,7 +94,7 @@ Format à respecter:
 | Lu 23/04 |     | Don't forget your veille !
 | Ma 24/04 |Kévin | Windows 10 1803 - Redstone 4 |
 | Me 25/04 |Romain | Art Intéractif |
-| Je 26/04 |Morgan | je ne sais pas |
+| Je 26/04 |Morgan | .NET Core |
 | Ve 27/04 |Michael | Facebook Données Personnelles |
 | Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
 | Ma 01/05 (ou Me 02/05)| Jordan | MySQL 8.0 |
@@ -124,7 +124,7 @@ Format à respecter:
 |Ceccoti	Ludovic  | 3|
 |Leers	Mathieu    | 1|
 |Bourloo	Michael  | 3|
-|Mignot	Morgan    | 2|
+|Mignot	Morgan    | 3|
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 2|
