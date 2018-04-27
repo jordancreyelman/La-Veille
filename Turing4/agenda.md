@@ -123,7 +123,7 @@ Format à respecter:
 |Charlier	Kévin   | 2|
 |Ceccoti	Ludovic  | 3|
 |Leers	Mathieu    | 1|
-|Bourloo	Michael  | 2|
+|Bourloo	Michael  | 3|
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
