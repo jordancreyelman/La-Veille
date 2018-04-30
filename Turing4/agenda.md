@@ -155,7 +155,7 @@ Format à respecter:
 |Ceccoti	Ludovic  | 3|
 |Leers	Mathieu    | 1|
 |Bourloo	Michael  | 3|
-|Mignot	Morgan    | 3|
+|Mignot	Morgan    | 2|
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 2|
