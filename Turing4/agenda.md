@@ -99,7 +99,7 @@ Format à respecter:
 | Me 25/04 |Romain | Art Intéractif |
 | Je 26/04 |Morgan | .NET Core |
 | Ve 27/04 |Michael | Facebook Données Personnelles |
-| Lu 30/04 |Steve | [Astuces CSS & Sass/SCSS](https://app.ludus.one/47707fac-8082-4ef1-8787-d3ba6e5ead67#1) |
+| Lu 30/04 |Steve | [Astuces CSS & Sass/SCSS](https://github.com/Steve-VE/css-sass-scss-things) |
 
 </details>
 
