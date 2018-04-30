@@ -78,6 +78,9 @@ Format à respecter:
 
 </details>
 
+<details> 
+  <summary>Avril</summary>
+
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
@@ -97,7 +100,35 @@ Format à respecter:
 | Je 26/04 |Morgan | .NET Core |
 | Ve 27/04 |Michael | Facebook Données Personnelles |
 | Lu 30/04 |Steve | [Astuces CSS & Sass/SCSS](https://app.ludus.one/47707fac-8082-4ef1-8787-d3ba6e5ead67#1) |
-| Ma 01/05 (ou Me 02/05)| Jordan | MySQL 8.0 |
+
+</details>
+
+### Mai
+
+| Quand         | Qui              | Quoi              |
+|:----------------:|:----------------:| ------------------:|
+| Me 02/05 | Jordan | MySQL 8.0 |
+| Je 03/05 | | |
+| Ve 04/05 | | |
+| Lu 07/05 | Claude | Gulp |
+| Ma 08/05 | | |
+| Me 09/05 | | |
+| Je 10/05 | Ascension | Ascension |
+| Ve 11/05 | | |
+| Lu 14/05 | | |
+| Ma 15/05 | | |
+| Me 16/05 | | |
+| Je 17/05 | | |
+| Ve 18/05 | | |
+| Lu 21/05 | Pentecôte | Pentecôte |
+| Ma 22/05 | | |
+| Me 23/05 | | |
+| Je 24/05 | | |
+| Ve 25/05 | | |
+| Lu 28/05 | | |
+| Ma 29/05 | | |
+| Me 30/05 | | |
+| Je 31/05 | | |
 
 
 ### Nb de veilles déjà faites :
