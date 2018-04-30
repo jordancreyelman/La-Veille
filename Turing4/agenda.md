@@ -96,7 +96,7 @@ Format à respecter:
 | Me 25/04 |Romain | Art Intéractif |
 | Je 26/04 |Morgan | .NET Core |
 | Ve 27/04 |Michael | Facebook Données Personnelles |
-| Lu 30/04 |Steve | Astuces CSS & Sass/SCSS + présentation de Processing |
+| Lu 30/04 |Steve | [Astuces CSS & Sass/SCSS](https://app.ludus.one/47707fac-8082-4ef1-8787-d3ba6e5ead67#1) |
 | Ma 01/05 (ou Me 02/05)| Jordan | MySQL 8.0 |
 
 
@@ -129,7 +129,7 @@ Format à respecter:
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
-|Van Essche	Steve | 2|
+|Van Essche	Steve | 3|
 
 
 
