@@ -1,4 +1,4 @@
-# La Veille à BXL CYCORP 
+# La Veille à Johnson 2 
 
 Il est important de faire de la veille pour se tenir à jour des dernières avancées, des derniers langages de programmation, des derniers outils et tutoriels... bref pour être toujours à jour et se perfectionner.  
 
