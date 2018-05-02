@@ -8,6 +8,7 @@ La Veille technologique à Becode, journalière et collective.
 - [Veille de BeCode Hamilton (promo 03)](Hamilton3)
 - [Veille de BeCode Turing (promo 04)](Turing4)
 - [Veille de BeCode Lovelace2 (promo 05)](Lovelace2)
+- [Veille de BeCode Johnson2 (promo 05)](Johnson2)
 
 
 Il est important de faire de la veille pour se tenir à jour des dernières avancées, des derniers langages de programmation, des derniers outils et tutoriels... bref pour être toujours à jour et se perfectionner.  
