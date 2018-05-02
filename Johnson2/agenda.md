@@ -5,9 +5,8 @@ Format à respecter:
 
 ## L'agenda des veilles à Johnson 2
 
-- Mercredi 18/4/2018 "*Codage / Décodage. (Compression / Décompression).*", __Saritas Akkad__
+- Mercredi 02/5/2018 "*Codage / Décodage. (Compression / Décompression).*", __Katheryne Johnson__
 
-.........  AKKAD LE GARDIEN DU MONDE PERDU ..........
 ### Mai
 
 - 
