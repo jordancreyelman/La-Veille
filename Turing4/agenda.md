@@ -121,7 +121,7 @@ Format à respecter:
 | Je 17/05 | | |
 | Ve 18/05 | | |
 | Lu 21/05 | Pentecôte | Pentecôte |
-| Ma 22/05 | | |
+| Ma 22/05 | Jérôme|le Shadow PC |
 | Me 23/05 | | |
 | Je 24/05 | | |
 | Ve 25/05 | | |
