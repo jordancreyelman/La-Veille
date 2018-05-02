@@ -5,7 +5,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Johnson 2
 
-- Mercredi 02/5/2018 "*Codage / Décodage. (Compression / Décompression).*", __Katheryne Johnson__
+- Mercredi 02/5/2018 "*Codage / Décodage. (Compression / Décompression).*", __Katherine Johnson__
 
 ### Mai
 
