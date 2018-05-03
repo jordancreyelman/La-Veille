@@ -115,7 +115,7 @@ Format à respecter:
 | Me 09/05 | | |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | | |
-| Lu 14/05 | | |
+| Lu 14/05 | Geoffrey | |
 | Ma 15/05 | | |
 | Me 16/05 | | |
 | Je 17/05 | | |
