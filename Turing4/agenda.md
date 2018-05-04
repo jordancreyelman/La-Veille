@@ -108,11 +108,11 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Me 02/05 | Jordan | MySQL 8.0 |
-| Je 03/05 | | NO VEILLE|
-| Ve 04/05 | | NO VEILLE|
-| Lu 07/05 | Atelier x BeCode | Design Innovation |
+| Je 03/05 | | |
+| Ve 04/05 | | |
+| Lu 07/05 | Claude | Gulp |
 | Ma 08/05 | Philippe | Vue.js |
-| Me 09/05 | Claude | Gulp |
+| Me 09/05 | | |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | | |
 | Lu 14/05 | Geoffrey | |
@@ -136,7 +136,7 @@ Format à respecter:
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
-|Mootoosamy	Bryan | 1|
+|Mootoosamy	Bryan | 2|
 |Janssen	Claude   | 3|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
