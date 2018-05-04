@@ -10,7 +10,7 @@ Format à respecter:
 ### Mai
 
 - Lundi 07/5/2018 "*Sujet a venir.*", **Poyraz Hakan**
-
+- Mardi 08/5/2018 "*Sujet a venir.*", **Lamri Mery**
 
 
 
