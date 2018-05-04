@@ -4,6 +4,7 @@
 - pour le calendrier du 05/03 au 16/03/2018 : **ARNAUD D.**
 - pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.** 
 - pour le calendrier du 16/04 au 30/04/2018 : **GEOFFREY C.:star:**
+- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.**
 
 Format à respecter:   
 
@@ -114,7 +115,7 @@ Format à respecter:
 | Ma 08/05 | Philippe | Vue.js |
 | Me 09/05 | | |
 | Je 10/05 | Ascension | Ascension |
-| Ve 11/05 | | |
+| Ve 11/05 | Sébastien |
 | Lu 14/05 | Geoffrey | |
 | Ma 15/05 | | |
 | Me 16/05 | | |
@@ -145,7 +146,6 @@ Format à respecter:
 |Collier	Dorian   | 2|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
-|Binon	Frédéric   | 1|
 |Canivet	Geoffrey | 3|
 |Bernard	Jacques  | 2|
 |Van Kelst	Jennifer | 2|
@@ -153,7 +153,7 @@ Format à respecter:
 |Flament	Jordan   | 3|
 |Charlier	Kévin   | 2|
 |Ceccoti	Ludovic  | 3|
-|Leers	Mathieu    | 1|
+|Leers	Mathieu    | 2|
 |Bourloo	Michael  | 3|
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 2|
