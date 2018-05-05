@@ -112,7 +112,7 @@ Format à respecter:
 | Je 03/05 | | |
 | Ve 04/05 | | |
 | Lu 07/05 | Claude | Gulp |
-| Ma 08/05 | Philippe | Vue.js |
+| Ma 08/05 | Philippe | Python |
 | Me 09/05 | | |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | Sébastien |
