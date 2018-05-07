@@ -13,3 +13,9 @@ Format à respecter:
 - Mardi 08/5/2018 "*Sujet a venir.*", **Lamri Mery**
 - Mercredi 09/5/2018 "*Cloud Firestore.*", **Fournier Cedric**
 - Vendredi 11/5/2018 "*Sujet a venir.*", **d'Oreye Adrien**
+
+- Lundi 14/5/2018  
+- Mardi 15/5/2018
+- Mercredi 16/5/2018 "*Sujet à venir*", **Charlotte Tusset**
+- Jeudi 17/5/2018
+- Vendredi 18/5/2018
