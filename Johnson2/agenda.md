@@ -9,16 +9,7 @@ Format à respecter:
 
 ### Mai
 
-- 
-
-
-
-
-
-
-
-
-
-
-
-
+- Lundi 07/5/2018 "*L'intelligence artificielle.*", **Poyraz Hakan**
+- Mardi 08/5/2018 "*Sujet a venir.*", **Lamri Mery**
+- Mercredi 09/5/2018 "*Cloud Firestore.*", **Fournier Cedric**
+- Vendredi 11/5/2018 "*Sujet a venir.*", **d'Oreye Adrien**
