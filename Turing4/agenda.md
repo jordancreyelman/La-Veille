@@ -109,11 +109,11 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Me 02/05 | Jordan | MySQL 8.0 |
-| Je 03/05 | | |
-| Ve 04/05 | | |
-| Lu 07/05 | Claude | Gulp |
+| Je 03/05 | | NO VEILLE|
+| Ve 04/05 | | NO VEILLE|
+| Lu 07/05 | Atelier x BeCode | Design Innovation |
 | Ma 08/05 | Philippe | Python |
-| Me 09/05 | | |
+| Me 09/05 | Claude | Gulp |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | Sébastien |
 | Lu 14/05 | Geoffrey | |
