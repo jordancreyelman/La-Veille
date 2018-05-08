@@ -18,4 +18,5 @@ Format à respecter:
 - Mardi 15/5/2018
 - Mercredi 16/5/2018 "*Algorave*", **Charlotte Tusset**
 - Jeudi 17/5/2018
-- Vendredi 18/5/2018 "*La domotique*", **Xavier Williame**
+- Vendredi 18/5/2018 "*La domotique*", **Xavier Williame
+- Lundi  21/05/2018 "Sujet a venir", **Antoni Dalle Nogare**
