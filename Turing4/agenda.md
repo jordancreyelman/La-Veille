@@ -138,7 +138,7 @@ Format à respecter:
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 2|
-|Janssen	Claude   | 3|
+|Janssen	Claude   | 4|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 3|
