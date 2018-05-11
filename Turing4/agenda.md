@@ -116,7 +116,7 @@ Format à respecter:
 | Me 09/05 | Claude | Gulp |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | Sébastien |
-| Lu 14/05 | Geoffrey | |
+| Lu 14/05 | Dorian | |
 | Ma 15/05 | | |
 | Me 16/05 | | |
 | Je 17/05 | | |
@@ -126,7 +126,7 @@ Format à respecter:
 | Me 23/05 | Sarah| |
 | Je 24/05 | | |
 | Ve 25/05 | | |
-| Lu 28/05 | | |
+| Lu 28/05 |Geoffrey| |
 | Ma 29/05 | | |
 | Me 30/05 | | |
 | Je 31/05 | | |
