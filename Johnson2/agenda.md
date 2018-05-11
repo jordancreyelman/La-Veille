@@ -20,5 +20,5 @@ Format à respecter:
 - Jeudi 17/5/2018
 - Vendredi 18/5/2018 "*La domotique*", **Xavier Williame**
 
-- Mardi 22/05/2018 "*Objets connectés au service de la médecine*", **Antoni Dalle Nogare**
+- Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
