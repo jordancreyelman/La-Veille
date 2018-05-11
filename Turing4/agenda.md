@@ -119,7 +119,7 @@ Format à respecter:
 | Lu 14/05 | Dorian | |
 | Ma 15/05 | | |
 | Me 16/05 | | |
-| Je 17/05 | | |
+| Je 17/05 | Daphné|
 | Ve 18/05 | David| |
 | Lu 21/05 | Pentecôte | Pentecôte |
 | Ma 22/05 | Jérôme|le Shadow PC |
