@@ -115,9 +115,9 @@ Format à respecter:
 | Ma 08/05 | Philippe | Python |
 | Me 09/05 | Claude | Gulp |
 | Je 10/05 | Ascension | Ascension |
-| Ve 11/05 | Sébastien |
+| Ve 11/05 | Ludo P | le language binaire
 | Lu 14/05 | Dorian | |
-| Ma 15/05 | | |
+| Ma 15/05 | Sébastien |
 | Me 16/05 | | |
 | Je 17/05 | Daphné|
 | Ve 18/05 | David| |
