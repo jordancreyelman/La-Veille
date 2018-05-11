@@ -3,8 +3,8 @@
  ### Veille Master
 - pour le calendrier du 05/03 au 16/03/2018 : **ARNAUD D.**
 - pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.** 
-- pour le calendrier du 16/04 au 30/04/2018 : **GEOFFREY C.:star:**
-- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.**
+- pour le calendrier du 16/04 au 30/04/2018 : **GEOFFREY C. **
+- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.:star:**
 
 Format à respecter:   
 
@@ -131,11 +131,13 @@ Format à respecter:
 | Me 30/05 | | |
 | Je 31/05 | | |
 
-### Réserve
-
+<details> 
+  <summary>Réserve </summary>
 | Qui              | Quoi               | Status |
 |:----------------:|:----------------:|:------------------:|
 | Claude | La DataViz  | _Doing_ |
+
+</details>
 
 ### Nb de veilles déjà faites :
 
