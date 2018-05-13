@@ -20,5 +20,6 @@ Format à respecter:
 - Jeudi 17/5/2018 "*Sujet à venir*", **Marie Cambie**
 - Vendredi 18/5/2018 "*La domotique*", **Xavier Williame**
 
+- Lundi 21/05/2018 "*Sujet à venir*", **Colombe Sechehaye**
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
