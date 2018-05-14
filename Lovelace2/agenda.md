@@ -7,7 +7,10 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 
+
+
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 
 - mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
 
@@ -20,7 +23,8 @@ Format à respecter:
 - Jeudi 07/06/2018, " ", Mariane Niwemfura
 
 
+- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
+
 ## Archive
 
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
