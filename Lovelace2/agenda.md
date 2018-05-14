@@ -24,7 +24,7 @@ Format à respecter:
 
 - Vendredi 08/06/2018, "?", Julie Connerotte;
 
-- Lundi 14/5/2018, www.Labex.io ,  DUPLEX ,  Skeep Meilyn ANDRADE
+- Lundi 14/5/2018, www.Labex.io ,DUPLEX ,Skeep Meilyn ANDRADE
  
 ## Archive
 
