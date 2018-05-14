@@ -24,4 +24,3 @@
 
 30/01/2018, Subject Selection Photoshop, Jordan Peter
 
-29/05/2018, Subject ?, Liliane, Mamane
