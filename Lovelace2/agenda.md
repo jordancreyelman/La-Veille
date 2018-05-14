@@ -20,6 +20,8 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
+- Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
+
 <<<<<<< HEAD
 
 - Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
