@@ -18,6 +18,8 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
+- Jeudi 17/05/2018, "Les méthodologies de travail (Cascade, Agile, Scrum)"
+
 
 ## Archive
 
