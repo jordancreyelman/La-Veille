@@ -23,3 +23,11 @@ Format à respecter:
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 
+<<<<<<< HEAD
+=======
+- Lundi 14/5/2018, **www.Labex.io** : Des cours gratuits avec des environnements virtualisés pour apprendre à coder,
+
+ **DUPLEX** – L’assistant de Google qui parle en votre nom.
+ 
+ **Skeep** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE.
+>>>>>>> Meilyn-Andrade
