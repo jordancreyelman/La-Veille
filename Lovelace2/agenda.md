@@ -22,8 +22,9 @@ Format à respecter:
 
 - Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
 
- -Vendredi 08/06/2018, "?", Julie Connerotte;
- 
+- Vendredi 08/06/2018, "?", Julie Connerotte;
+
+- Lundi 14/5/2018, www.Labex.io ,  DUPLEX ,  Skeep Meilyn ANDRADE
  
 ## Archive
 
@@ -31,15 +32,4 @@ Format à respecter:
 - vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
-- Lundi 14/5/2018, **www.Labex.io** : Des cours gratuits avec des environnements virtualisés pour apprendre à coder,
-
- **DUPLEX** – L’assistant de Google qui parle en votre nom.
- 
- **Skeep** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE.
->>>>>>> Meilyn-Andrade
-=======
->>>>>>> 6ef9d2bc4be4c2cb26f79785e3898562ac11b503
