@@ -1,10 +1,10 @@
 ﻿# Veille: ordre de passage à Turing 4
  
  ### Veille Master
-- pour le calendrier du 05/03 au 16/03/2018 : **ARNAUD D.**
-- pour le calendrier du 19/03 au 30/03/2018 : **SARAH K.** 
-- pour le calendrier du 16/04 au 30/04/2018 : **GEOFFREY C.:star:**
-- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.**
+- pour le calendrier du 05/03 au 16/03/2018 : ***ARNAUD D.***
+- pour le calendrier du 19/03 au 30/03/2018 : ***SARAH K.*** 
+- pour le calendrier du 16/04 au 30/04/2018 : ***GEOFFREY C.***
+- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.:star:**
 
 Format à respecter:   
 
@@ -115,22 +115,30 @@ Format à respecter:
 | Ma 08/05 | Philippe | Python |
 | Me 09/05 | Claude | Gulp |
 | Je 10/05 | Ascension | Ascension |
-| Ve 11/05 | Sébastien |
-| Lu 14/05 | Geoffrey | |
-| Ma 15/05 | | |
+| Ve 11/05 | Ludo P | le language binaire
+| Lu 14/05 | Dorian | |
+| Ma 15/05 | Sébastien | Gutenberg
 | Me 16/05 | | |
-| Je 17/05 | | |
+| Je 17/05 | Daphné|
 | Ve 18/05 | David| |
 | Lu 21/05 | Pentecôte | Pentecôte |
 | Ma 22/05 | Jérôme|le Shadow PC |
 | Me 23/05 | Sarah| |
 | Je 24/05 | | |
-| Ve 25/05 | | |
-| Lu 28/05 | | |
+| Ve 25/05 | Sébastien| XXX |
+| Lu 28/05 |Geoffrey| |
 | Ma 29/05 | | |
 | Me 30/05 | | |
 | Je 31/05 | | |
 
+<details> 
+  <summary>Réserve </summary>
+ 
+ | Date          | Nom              | Statut              |
+ |:----------------:|:----------------:| ------------------:|
+ | Claude | La DataViz  | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) _Doing_  |
+
+</details>
 
 ### Nb de veilles déjà faites :
 
@@ -138,7 +146,7 @@ Format à respecter:
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 2|
-|Janssen	Claude   | 3|
+|Janssen	Claude   | 4|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 3|
@@ -161,6 +169,3 @@ Format à respecter:
 |Klewiec	Sarah    | 2|
 |Da Cruz-Matias	Sébatsien | 1|
 |Van Essche	Steve | 3|
-
-
-
