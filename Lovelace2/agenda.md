@@ -7,6 +7,8 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 
+
+
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 
@@ -19,7 +21,11 @@ Format à respecter:
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
 
+<<<<<<< HEAD
  -Vendredi 08/06/2018, "?", Julie Connerotte;
+=======
+- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
+>>>>>>> 1b424357a71483b1f76d19b5bb95f38dd3f8db7c
 
 ## Archive
 
