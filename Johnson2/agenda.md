@@ -25,3 +25,8 @@ Format à respecter:
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
 - Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
 - Vendredi 25/05/2018 , "*Bayou: coding A.I.*", **Guillaume Deruwez** 
+
+- Mardi 29/05/2018 "*Sujet à venir*", ****
+- Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
+- Jeudi 31/05/2018 "*Sujet à venir*", ****
+
