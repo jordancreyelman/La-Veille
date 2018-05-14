@@ -15,6 +15,7 @@ Format à respecter:
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, Subject ?, Liliane, Mamane
+- Mercredi 30/5/2018, "", Geoffrey Poelmans,
 - Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
 - Jeudi 07/06/2018, " ", Mariane Niwemfura
 - Vendredi 08/06/2018, "?", Julie Connerotte;
