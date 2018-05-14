@@ -1,7 +1,7 @@
 #
  Veille: ordre de passage à Lovelace 2
 
-Format à respecter:   
+Format à respecter:15/05/2018, "Problemes de dos et étirements devant un ordinateur", Morgane Meganck.
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
