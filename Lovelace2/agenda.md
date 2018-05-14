@@ -1,4 +1,4 @@
-#
+﻿#
  Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
@@ -8,5 +8,7 @@ Format à respecter:
 
 
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
+
+- Mercredi 30/5/2018, "", Geoffrey Poelmans,
 
 ## Archive
