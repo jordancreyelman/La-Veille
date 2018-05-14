@@ -17,12 +17,13 @@ Format à respecter:
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, Subject ?, Liliane, Mamane
 - Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
+- Mardi 05/06/2018, "La Réalité Virtuelle" ,Gaëtano Mico Latorre.
 - Vendredi 08/06/2018, "?", Julie Connerotte;
- 
 ## Archive
 
 - vendredi 4/5/2018, "présentation du raspberry pi", Ludovic Hautecoeur
 - mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
 - vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
 - Lundi 14/5/2018, www.Labex.io ,DUPLEX ,Skeep Meilyn ANDRADE
+
 
