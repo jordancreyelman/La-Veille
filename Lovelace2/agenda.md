@@ -1,4 +1,4 @@
-#
+﻿#
  Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
@@ -20,12 +20,12 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
-- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
-
- -Vendredi 08/06/2018, "?", Julie Connerotte;
- 
- 
-## Archive
-
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 
+- Mercredi 30/5/2018, "", Geoffrey Poelmans,
+
+- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
+
+-Vendredi 08/06/2018, "?", Julie Connerotte;
+
+## Archive
