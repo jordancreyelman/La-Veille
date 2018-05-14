@@ -20,13 +20,11 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
-
-<<<<<<< HEAD
- -Vendredi 08/06/2018, "?", Julie Connerotte;
-=======
 - Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
->>>>>>> 1b424357a71483b1f76d19b5bb95f38dd3f8db7c
 
+ -Vendredi 08/06/2018, "?", Julie Connerotte;
+ 
+ 
 ## Archive
 
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
