@@ -117,7 +117,7 @@ Format à respecter:
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | Ludo P | le language binaire
 | Lu 14/05 | Dorian | |
-| Ma 15/05 | Sébastien |
+| Ma 15/05 | Sébastien | Gutenberg
 | Me 16/05 | | |
 | Je 17/05 | Daphné|
 | Ve 18/05 | David| |
@@ -125,7 +125,7 @@ Format à respecter:
 | Ma 22/05 | Jérôme|le Shadow PC |
 | Me 23/05 | Sarah| |
 | Je 24/05 | | |
-| Ve 25/05 | | |
+| Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| |
 | Ma 29/05 | | |
 | Me 30/05 | | |
