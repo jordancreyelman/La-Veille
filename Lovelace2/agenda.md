@@ -10,6 +10,7 @@ Format à respecter:
 
 
 - mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
+- Vendredi 18/05/2018  (?), Nadir Mohamed Ali
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
 - jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
@@ -18,11 +19,11 @@ Format à respecter:
 - Mardi 29/05/2018, Subject ?, Liliane, Mamane
 - Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
 - Vendredi 08/06/2018, "?", Julie Connerotte;
- 
+
 ## Archive
 
 - vendredi 4/5/2018, "présentation du raspberry pi", Ludovic Hautecoeur
 - mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
 - vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
-- Lundi 14/5/2018, www.Labex.io ,DUPLEX ,Skeep Meilyn ANDRADE
 
+- Lundi 14/5/2018, www.Labex.io ,DUPLEX ,Skeep Meilyn ANDRADE
