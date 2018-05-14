@@ -23,3 +23,4 @@ Format à respecter:
 - Lundi 21/05/2018 "*Sujet à venir*", **Colombe Sechehaye**
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
+- Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
