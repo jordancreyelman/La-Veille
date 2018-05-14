@@ -24,4 +24,4 @@ Format à respecter:
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
 - Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
-- Vendredi 25/05/2018 , "*Sujet à venir*", **Guillaume Deruwez** 
+- Vendredi 25/05/2018 , "*Bayou: coding A.I.*", **Guillaume Deruwez** 
