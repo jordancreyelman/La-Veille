@@ -20,12 +20,16 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
-- lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-
-- Mercredi 30/5/2018, "", Geoffrey Poelmans,
-
 - Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
 
 -Vendredi 08/06/2018, "?", Julie Connerotte;
 
 ## Archive
+
+
+- vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
+- lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+
+- Mercredi 30/5/2018, "", Geoffrey Poelmans,
+
