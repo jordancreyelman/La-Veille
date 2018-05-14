@@ -30,10 +30,8 @@ Format à respecter:
  
 ## Archive
 
-
 - vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-
-
+- vendredi 4/5/2018, "présentation du raspberry pi", Ludovic Hautecoeur
 
