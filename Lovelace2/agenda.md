@@ -11,7 +11,7 @@ Format à respecter:
 
 - mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
 - Vendredi 18/05/2018  (?), Nadir Mohamed Ali
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
+- mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
 - jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
