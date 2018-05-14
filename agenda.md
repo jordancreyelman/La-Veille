@@ -28,4 +28,4 @@
 
  **DUPLEX** – L’assistant de Google qui parle en votre nom.
  
- ** Skeep ** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE
+ **Skeep** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE
