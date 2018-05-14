@@ -7,7 +7,10 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 
+
+
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 
 - mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
 
@@ -17,11 +20,18 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
+- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
 
+ -Vendredi 08/06/2018, "?", Julie Connerotte;
+ 
+ 
 ## Archive
 
+
+- vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -31,3 +41,5 @@ Format à respecter:
  
  **Skeep** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE.
 >>>>>>> Meilyn-Andrade
+=======
+>>>>>>> 6ef9d2bc4be4c2cb26f79785e3898562ac11b503
