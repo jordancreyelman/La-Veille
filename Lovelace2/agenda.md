@@ -12,6 +12,8 @@ Format à respecter:
 
 - jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
 
+ -Vendredi 08/06/2018, "?", Julie Connerotte;
+
 ## Archive
 
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
