@@ -8,5 +8,6 @@ Format à respecter:
 
 
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
+- mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
 
 ## Archive
