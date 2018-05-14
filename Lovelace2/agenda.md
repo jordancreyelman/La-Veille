@@ -17,9 +17,10 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
+- Jeudi 07/06/2018, " ", Mariane Niwemfura
+
 
 ## Archive
 
 - lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-
