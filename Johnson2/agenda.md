@@ -28,5 +28,5 @@ Format à respecter:
 
 - Mardi 29/05/2018 "*Sujet à venir*", ****
 - Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
-- Jeudi 31/05/2018 "*Sujet à venir*", ****
+- Jeudi 31/05/2018 "*Digital Footprint*", **Marco Bove**
 
