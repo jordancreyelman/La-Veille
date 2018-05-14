@@ -22,14 +22,7 @@ Format à respecter:
 
 - Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
 
-<<<<<<< HEAD
-
-- Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
-=======
-- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
->>>>>>> 48672a5ffb0228fff2155576d6c423a3952feaf6
-
- -Vendredi 08/06/2018, "?", Julie Connerotte;
+- Vendredi 08/06/2018, "?", Julie Connerotte;
  
  
 ## Archive
