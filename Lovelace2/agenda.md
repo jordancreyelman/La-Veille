@@ -11,4 +11,6 @@ Format à respecter:
 
 ## Archive
 
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+
