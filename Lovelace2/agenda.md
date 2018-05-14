@@ -13,9 +13,13 @@ Format à respecter:
 
 - mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
 
-- jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
+- jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le
+
+- Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
 
 ## Archive
 
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+
