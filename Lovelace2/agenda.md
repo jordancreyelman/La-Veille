@@ -20,11 +20,23 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
+<<<<<<< HEAD
 - Jeudi 07/06/2018, " ", Mariane Niwemfura
 
 
+=======
+>>>>>>> 6ef9d2bc4be4c2cb26f79785e3898562ac11b503
 - Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
 
+ -Vendredi 08/06/2018, "?", Julie Connerotte;
+ 
+ 
 ## Archive
 
+<<<<<<< HEAD
+=======
+
+- vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
+- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
+>>>>>>> 6ef9d2bc4be4c2cb26f79785e3898562ac11b503
 - lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
