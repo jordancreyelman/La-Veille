@@ -21,7 +21,7 @@ Format à respecter:
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
 
-- Jeudi (01/06/2018) , "Sujet" ,  Andrea Pinna
+- Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
 
 ## Archive
 
