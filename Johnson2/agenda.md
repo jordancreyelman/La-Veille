@@ -14,8 +14,8 @@ Format à respecter:
 - Mercredi 09/5/2018 "*Cloud Firestore.*", **Fournier Cedric**
 - Vendredi 11/5/2018 "*Sujet a venir.*", **d'Oreye Adrien**
 
-- Lundi 14/5/2018 , "*Micro-robot.*", **Wilfort Stéphane**
-- Mardi 15/5/2018
+- Lundi 14/5/2018 "*Micro-robot.*", **Wilfort Stéphane**
+- Mardi 15/5/2018 "*IoT (Internet of Things).*", **Juan Cely**
 - Mercredi 16/5/2018 "*Algorave*", **Charlotte Tusset**
 - Jeudi 17/5/2018 "*Sujet à venir*", **Marie Cambie**
 - Vendredi 18/5/2018 "*La domotique*", **Xavier Williame**
@@ -24,4 +24,9 @@ Format à respecter:
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
 - Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
 - Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
-- Vendredi 25/05/2018 , "*Sujet à venir*", **Guillaume Deruwez** 
+- Vendredi 25/05/2018 , "*Bayou: coding A.I.*", **Guillaume Deruwez** 
+
+- Mardi 29/05/2018 "*Sujet à venir*", ****
+- Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
+- Jeudi 31/05/2018 "*Sujet à venir*", ****
+
