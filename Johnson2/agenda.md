@@ -17,7 +17,7 @@ Format à respecter:
 - Lundi 14/5/2018 "*Micro-robot.*", **Wilfort Stéphane**
 - Mardi 15/5/2018 "*IoT (Internet of Things).*", **Juan Cely**
 - Mercredi 16/5/2018 "*Algorave*", **Charlotte Tusset**
-- Jeudi 17/5/2018 "*Sujet à venir*", **Marie Cambie**
+- Jeudi 17/5/2018 "*Implants électronique & NFC*", **Marie Cambie**
 - Vendredi 18/5/2018 "*La domotique*", **Xavier Williame**
 
 - Lundi 21/05/2018 "*Sujet à venir*", **Colombe Sechehaye**
