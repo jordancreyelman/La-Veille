@@ -1,7 +1,5 @@
 # Veille: ordre de passage à Johnson 2
-
-Format à respecter:   
-- date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
+/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Johnson 2
 
