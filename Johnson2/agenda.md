@@ -29,3 +29,9 @@
 - Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
 - Jeudi 31/05/2018 "*Digital Footprint*", **Marco Bove**
 - Vendredi 01/06/2018 "-intrication quantique"*, **Ajay Shinde**
+
+- Lundi 04/06/2018
+- Mardi 05/06/2018
+- Mercredi 06/06/2018
+- Jeudi 07/06/2018 "*La puce RFID*", **Marie Louise Ogdoc**
+- Vendredi 08/06/2018
