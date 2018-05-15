@@ -20,7 +20,7 @@ Format à respecter:
 
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
 
-- Vendredi 25/05/2018, " Sujet ", Christophe Kwizera
+- Vendredi 25/05/2018, "Sujet", Christophe Kwizera
  
 - Vendredi 08/06/2018, "?", Julie Connerotte;
 
