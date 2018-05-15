@@ -127,7 +127,7 @@ Format à respecter:
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| |
-| Ma 29/05 | | |
+| Ma 29/05 |Kévin | |
 | Me 30/05 | | |
 | Je 31/05 | | |
 
