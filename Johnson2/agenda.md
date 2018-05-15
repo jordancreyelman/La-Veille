@@ -28,4 +28,4 @@
 - Mardi 29/05/2018 "*Sujet à venir*", **Colombe Sechehaye**
 - Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
 - Jeudi 31/05/2018 "*Digital Footprint*", **Marco Bove**
-
+- Vendredi 01/06/2018 "-intrication quantique"*, **Ajay Shinde**
