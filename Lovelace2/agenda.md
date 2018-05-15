@@ -1,25 +1,31 @@
-#
- Veille: ordre de passage à Lovelace 2
+
+
+# Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
 
-
-
-
 - lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-
-- mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
-
 - mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
-
-- jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le
-
+- Vendredi 18/05/2018  (?), Nadir Mohamed Ali
+- mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
+- Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
+- jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
 - Vendredi 25/05/2018, " ", Sammuel JANSSENS
+- Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+- Mardi 29/05/2018, Subject ?, Liliane, Mamane
+- Mercredi 30/5/2018, "", Geoffrey Poelmans,
+- Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
+- Mardi 05/06/2018, "La Réalité Virtuelle" ,Mico Latorre Gaëtano.
+- mercredi 06/06/2018, "A définir", Paul Henrot 
+- Jeudi 07/06/2018, " ", Mariane Niwemfura
+- Vendredi 08/06/2018, "?", Julie Connerotte;
 
+
+
+<<<<<<< HEAD
 - Vendredi 25/05/2018, " Sujet ", Christophe Kwizera
  
 - Vendredi 08/06/2018, "?", Julie Connerotte;
@@ -30,8 +36,15 @@ Format à respecter:
  
  
 ## Archive
+=======
 
+>>>>>>> 19c1ff2d58fbabd66997ed75a5aa8daa0b1e18d0
 
+## Archive
+
+- vendredi 4/5/2018, "présentation du raspberry pi", Ludovic Hautecoeur
+- mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
 - vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-- lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+- Lundi 14/5/2018, www.Labex.io ,DUPLEX ,Skeep Meilyn ANDRADE
+
+
