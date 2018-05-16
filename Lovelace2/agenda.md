@@ -19,7 +19,7 @@ Format à respecter:
 - Mercredi 30/05/2018, "?", Geoffrey Poelmans,
 - Jeudi 31/05/2018 , "?" ,  Andrea Pinna
 - Vendredi 01/06/2018 , "?" ,  Guillaume Bare
-- Lundi 04/06/2018 , "?" ,  Michael Tolis
+- Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot 
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
