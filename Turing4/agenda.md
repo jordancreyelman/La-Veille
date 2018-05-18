@@ -120,7 +120,7 @@ Format à respecter:
 | Ma 15/05 | Sébastien | Gutenberg
 | Me 16/05 | | |
 | Je 17/05 | Daphné|
-| Ve 18/05 | David| |
+| Ve 18/05 | David| COLORS |
 | Lu 21/05 | Pentecôte | Pentecôte |
 | Ma 22/05 | Jérôme|le Shadow PC |
 | Me 23/05 | Sarah| |
