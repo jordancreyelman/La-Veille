@@ -118,7 +118,7 @@ Format à respecter:
 | Ve 11/05 | Ludo P | le language binaire
 | Lu 14/05 | Dorian | |
 | Ma 15/05 | Sébastien | Gutenberg
-| Me 16/05 | | |
+| Me 16/05 | Ludovic | Théorie des couleurs |
 | Je 17/05 | Daphné|
 | Ve 18/05 | David| COLORS |
 | Lu 21/05 | Pentecôte | Pentecôte |
@@ -160,7 +160,7 @@ Format à respecter:
 |Gretzer	Jérôme   | 2|
 |Flament	Jordan   | 3|
 |Charlier	Kévin   | 2|
-|Ceccoti	Ludovic  | 3|
+|Ceccoti	Ludovic  | 4|
 |Leers	Mathieu    | 2|
 |Bourloo	Michael  | 3|
 |Mignot	Morgan    | 2|
