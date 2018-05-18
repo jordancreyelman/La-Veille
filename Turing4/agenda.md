@@ -127,8 +127,8 @@ Format à respecter:
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| |
-| Ma 29/05 | | |
-| Me 30/05 | | |
+| Ma 29/05 |Kévin | |
+| Me 30/05 | Steve | Processing |
 | Je 31/05 | | |
 
 <details> 
@@ -149,7 +149,7 @@ Format à respecter:
 |Janssen	Claude   | 4|
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
-|Haulin	Daphné    | 3|
+|Haulin	Daphné    | 4|
 |Thewissen	David  | 2|
 |Collier	Dorian   | 2|
 |Manzi	Félicien   | 2|
