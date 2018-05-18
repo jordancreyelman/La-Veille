@@ -35,7 +35,7 @@
 - Vendredi 01/06/2018 "-intrication quantique"*, **Ajay Shinde**
 
 - Lundi 04/06/2018 "*Headset Emotive*", **Alexandre Infanti**
-- Mardi 05/06/2018
+- Mardi 05/06/2018"*Sujet a venir*", **Liam Carlier**
 - Mercredi 06/06/2018
 - Jeudi 07/06/2018
 - Vendredi 08/06/2018 "*Sujet à venir*", **Marie Louise Ogdoc**
