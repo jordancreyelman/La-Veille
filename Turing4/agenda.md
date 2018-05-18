@@ -150,7 +150,7 @@ Format à respecter:
 |Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 4|
-|Thewissen	David  | 2|
+|Thewissen	David  | 3|
 |Collier	Dorian   | 2|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
