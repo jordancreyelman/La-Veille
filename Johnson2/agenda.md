@@ -39,4 +39,3 @@
 - Mercredi 06/06/2018
 - Jeudi 07/06/2018
 - Vendredi 08/06/2018 "*Sujet à venir*", **Marie Louise Ogdoc**
->>>>>>> 951b094fd348e234f4762d84843bdadc4e888ad8
