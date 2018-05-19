@@ -7,9 +7,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
-- Jeudi 17/05/2018, "Les méthodologies de travail (Cascade, Agile, Scrum)", Mostapha Tahri
-- Vendredi 18/05/2018  "?", Nadir Mohamed Ali
 - Mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
 - Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le
@@ -42,5 +39,6 @@ Format à respecter:
 - Vendredi 11/05/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
 - Lundi 14/05/2018, "www.Labex.io ,DUPLEX ,Skeep" Meilyn ANDRADE
 - Mardi 15/05/2018, "Problemes de dos et étirements devant un ordinateur", Morgane Meganck
-
-
+- Mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
+- Jeudi 17/05/2018, "Les méthodologies de travail (Cascade, Agile, Scrum)", Mostapha Tahri
+- Vendredi 18/05/2018  "Back & Front-End", Nadir Mohamed Ali
