@@ -37,5 +37,5 @@
 - Lundi 04/06/2018 "*Headset Emotive*", **Alexandre Infanti**
 - Mardi 05/06/2018 "*Sujet a venir*", **Liam Carlier**
 - Mercredi 06/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Jeudi 07/06/2018
+- Jeudi 07/06/2018   "*"               ,  ** Creyelman jordan **
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
